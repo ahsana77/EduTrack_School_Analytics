@@ -1,0 +1,601 @@
+student_id,name,grade,section,gender,nationality,class
+S1000,Priya Kumar,6,A,F,Egypt,6A
+S1001,Nadia Khan,11,B,M,Bangladesh,11B
+S1002,Joy Menon,10,B,M,India,10B
+S1003,Zayed Menon,9,A,M,India,9A
+S1004,Faisal Abdullah,9,A,F,Philippines,9A
+S1005,Mark Rahman,12,A,M,Pakistan,12A
+S1006,Karim Santos,6,A,F,Jordan,6A
+S1007,Zainab Mohammed,10,B,M,India,10B
+S1008,Hamad Hassan,7,A,F,UAE,7A
+S1009,Omar Khan,6,C,F,Jordan,6C
+S1010,Ali Rahman,9,A,M,UAE,9A
+S1011,Mariam Santos,12,B,F,UAE,12B
+S1012,Priya Nair,11,C,M,Egypt,11C
+S1013,Layla Ibrahim,11,B,M,Jordan,11B
+S1014,Rashid Ibrahim,11,C,F,Sudan,11C
+S1015,Nadia Ibrahim,11,A,F,UAE,11A
+S1016,Ali Santos,9,A,M,UAE,9A
+S1017,Khalid Mohammed,6,A,F,Bangladesh,6A
+S1018,Hamad Hassan,11,A,F,UAE,11A
+S1019,Karim Ahmed,9,A,F,UAE,9A
+S1020,Zainab Reyes,9,A,F,UAE,9A
+S1021,Mark Rahman,8,C,M,Pakistan,8C
+S1022,Karim Ibrahim,7,A,F,Sudan,7A
+S1023,Ali Menon,12,C,M,Jordan,12C
+S1024,Salma Abdullah,11,C,F,Egypt,11C
+S1025,Amna Mohammed,10,C,M,UAE,10C
+S1026,Sara Kumar,8,A,F,India,8A
+S1027,Maya Menon,11,C,F,India,11C
+S1028,Nadia Mohammed,9,B,M,UAE,9B
+S1029,Fatima Hassan,9,C,F,UAE,9C
+S1030,Khalid Yousef,9,B,F,India,9B
+S1031,Omar Nair,7,C,M,UAE,7C
+S1032,Arjun Yousef,6,B,F,Pakistan,6B
+S1033,Rashid Abdullah,9,A,F,Egypt,9A
+S1034,Tariq Khan,12,B,F,UAE,12B
+S1035,Salma Ali,6,A,M,India,6A
+S1036,Rahul Al Dhaheri,12,C,M,Jordan,12C
+S1037,Priya Yousef,11,A,M,Jordan,11A
+S1038,Arjun Al Dhaheri,7,A,M,Philippines,7A
+S1039,Rashid Reyes,10,B,F,India,10B
+S1040,Bilal Khan,7,B,F,Philippines,7B
+S1041,Salma Ahmed,11,A,F,UAE,11A
+S1042,Khalid Kumar,10,C,F,India,10C
+S1043,Hana Ali,8,C,F,UAE,8C
+S1044,Ali Kumar,6,C,M,India,6C
+S1045,Faisal Kumar,12,B,M,India,12B
+S1046,Tariq Ahmed,9,B,M,UAE,9B
+S1047,Fatima Hassan,12,B,M,Jordan,12B
+S1048,Bilal Ali,10,B,M,India,10B
+S1049,Omar Al Dhaheri,11,A,F,UAE,11A
+S1050,Rashid Ali,11,A,M,UAE,11A
+S1051,Khalid Khan,7,A,M,India,7A
+S1052,Yusuf Ali,8,B,F,India,8B
+S1053,Aisha Ali,9,A,F,India,9A
+S1054,Amna Rahman,9,A,M,UAE,9A
+S1055,Zainab Menon,6,C,F,Jordan,6C
+S1056,Bilal Kumar,9,B,M,Sudan,9B
+S1057,Tariq Kumar,7,B,M,India,7B
+S1058,Rashid Rahman,11,B,F,Egypt,11B
+S1059,Hamad Ali,10,C,F,Philippines,10C
+S1060,Mariam Reyes,12,C,F,Bangladesh,12C
+S1061,Mark Al Dhaheri,11,A,F,Pakistan,11A
+S1062,Karim Al Dhaheri,8,C,F,Sudan,8C
+S1063,Bilal Al Dhaheri,12,B,M,Sudan,12B
+S1064,Amna Mohammed,8,C,F,Jordan,8C
+S1065,Bilal Santos,8,B,F,India,8B
+S1066,Tariq Kumar,12,A,F,UAE,12A
+S1067,Sara Mohammed,8,C,M,UAE,8C
+S1068,Bilal Ibrahim,6,A,F,India,6A
+S1069,Nadia Reyes,9,C,F,India,9C
+S1070,Joy Kumar,11,A,M,India,11A
+S1071,Rahul Hassan,7,A,F,Pakistan,7A
+S1072,Karim Ibrahim,9,B,F,Pakistan,9B
+S1073,Rashid Ibrahim,6,C,F,Philippines,6C
+S1074,Zayed Khan,10,B,F,UAE,10B
+S1075,Salma Khan,9,A,F,UAE,9A
+S1076,Fatima Reyes,8,A,M,Jordan,8A
+S1077,Maya Rahman,7,C,F,Philippines,7C
+S1078,Nadia Santos,9,C,F,Bangladesh,9C
+S1079,Yusuf Yousef,10,A,F,Philippines,10A
+S1080,Khalid Menon,12,B,M,Sudan,12B
+S1081,Salma Reyes,9,A,M,India,9A
+S1082,Layla Kumar,7,A,F,India,7A
+S1083,Priya Rahman,11,C,F,UAE,11C
+S1084,Mariam Santos,10,B,F,Pakistan,10B
+S1085,Rahul Ahmed,10,A,F,Sudan,10A
+S1086,Aisha Yousef,6,B,F,India,6B
+S1087,Mark Ahmed,8,B,F,Pakistan,8B
+S1088,Hana Al Dhaheri,11,A,M,UAE,11A
+S1089,Noor Abdullah,11,B,F,UAE,11B
+S1090,Anika Mohammed,9,A,F,UAE,9A
+S1091,Yusuf Al Dhaheri,11,A,F,UAE,11A
+S1092,Amna Ali,11,C,M,Bangladesh,11C
+S1093,Aisha Mohammed,8,C,M,India,8C
+S1094,Maya Al Mazrouei,12,A,F,Philippines,12A
+S1095,Fatima Rahman,8,C,F,Egypt,8C
+S1096,Bilal Abdullah,7,B,M,UAE,7B
+S1097,Hana Hassan,10,C,M,UAE,10C
+S1098,Faisal Rahman,10,C,F,Philippines,10C
+S1099,Zayed Rahman,6,B,M,UAE,6B
+S1100,Aisha Hassan,11,B,M,Sudan,11B
+S1101,Rashid Reyes,7,B,F,UAE,7B
+S1102,Nadia Kumar,11,C,M,Egypt,11C
+S1103,Maya Al Dhaheri,6,A,F,Philippines,6A
+S1104,Ahmed Ahmed,11,A,F,UAE,11A
+S1105,Omar Reyes,11,A,F,UAE,11A
+S1106,Zainab Hassan,11,A,F,Bangladesh,11A
+S1107,Karim Abdullah,10,A,M,UAE,10A
+S1108,Omar Al Dhaheri,9,A,F,India,9A
+S1109,Rahul Ahmed,10,C,F,India,10C
+S1110,Aisha Mohammed,7,A,F,UAE,7A
+S1111,Mariam Mohammed,11,C,M,Jordan,11C
+S1112,Priya Al Dhaheri,9,A,M,Jordan,9A
+S1113,Zainab Reyes,9,C,M,India,9C
+S1114,Mark Al Mazrouei,9,A,F,Philippines,9A
+S1115,Hamad Nair,9,B,M,UAE,9B
+S1116,Ali Khan,6,A,M,UAE,6A
+S1117,Mark Kumar,6,B,M,Pakistan,6B
+S1118,Joy Nair,7,B,F,Bangladesh,7B
+S1119,Aisha Reyes,6,B,M,UAE,6B
+S1120,Noor Mohammed,9,B,F,UAE,9B
+S1121,Tariq Al Mazrouei,10,B,F,Pakistan,10B
+S1122,Aisha Al Mazrouei,10,C,F,Philippines,10C
+S1123,Mariam Al Mazrouei,9,B,F,UAE,9B
+S1124,Joy Ali,11,B,F,India,11B
+S1125,Faisal Kumar,9,A,F,Jordan,9A
+S1126,Salma Nair,6,B,F,India,6B
+S1127,Noor Abdullah,11,A,M,UAE,11A
+S1128,Hamad Al Mazrouei,10,A,F,UAE,10A
+S1129,Zainab Kumar,10,C,M,India,10C
+S1130,Faisal Reyes,9,A,M,India,9A
+S1131,Yusuf Kumar,9,B,M,Philippines,9B
+S1132,Mark Yousef,6,C,M,Egypt,6C
+S1133,Joy Abdullah,9,C,F,Egypt,9C
+S1134,Ali Al Mazrouei,11,A,M,Bangladesh,11A
+S1135,Ali Nair,8,A,M,India,8A
+S1136,Yusuf Al Dhaheri,10,B,F,India,10B
+S1137,Zainab Menon,6,B,F,Sudan,6B
+S1138,Maya Yousef,8,C,M,UAE,8C
+S1139,Maya Mohammed,9,A,F,Jordan,9A
+S1140,Fatima Abdullah,12,A,F,Jordan,12A
+S1141,Ali Khan,7,A,M,UAE,7A
+S1142,Joy Yousef,7,C,M,India,7C
+S1143,Omar Nair,8,A,F,UAE,8A
+S1144,Aisha Hassan,12,B,M,UAE,12B
+S1145,Fatima Yousef,11,A,F,India,11A
+S1146,Rashid Ahmed,6,A,M,UAE,6A
+S1147,Nadia Ali,7,C,M,Jordan,7C
+S1148,Rashid Al Mazrouei,11,A,F,Sudan,11A
+S1149,Fatima Ali,6,A,F,Philippines,6A
+S1150,Aisha Al Mazrouei,11,C,M,UAE,11C
+S1151,Sara Reyes,7,B,F,UAE,7B
+S1152,Ali Yousef,12,A,F,UAE,12A
+S1153,Hana Khan,8,B,F,UAE,8B
+S1154,Ahmed Al Dhaheri,9,C,M,Bangladesh,9C
+S1155,Karim Khan,10,B,F,India,10B
+S1156,Ahmed Ahmed,6,B,M,UAE,6B
+S1157,Arjun Rahman,9,B,M,Philippines,9B
+S1158,Maya Kumar,9,B,F,India,9B
+S1159,Hamad Mohammed,11,A,M,UAE,11A
+S1160,Anika Ali,12,C,M,UAE,12C
+S1161,Ali Khan,10,C,F,Egypt,10C
+S1162,Hamad Ahmed,8,A,M,Jordan,8A
+S1163,Maya Hassan,8,C,F,UAE,8C
+S1164,Hana Ali,8,C,F,Sudan,8C
+S1165,Maya Yousef,11,C,F,Philippines,11C
+S1166,Hamad Mohammed,8,B,M,Philippines,8B
+S1167,Ali Ahmed,7,B,M,UAE,7B
+S1168,Mariam Khan,8,C,F,UAE,8C
+S1169,Ali Menon,6,A,M,Philippines,6A
+S1170,Zainab Santos,6,C,M,India,6C
+S1171,Tariq Rahman,6,C,M,Pakistan,6C
+S1172,Yusuf Al Dhaheri,11,C,M,Jordan,11C
+S1173,Faisal Khan,11,B,F,UAE,11B
+S1174,Salma Hassan,10,B,M,Jordan,10B
+S1175,Fatima Hassan,9,A,F,Sudan,9A
+S1176,Priya Santos,11,C,F,Jordan,11C
+S1177,Karim Ali,7,B,F,India,7B
+S1178,Hana Mohammed,12,A,M,Philippines,12A
+S1179,Faisal Santos,9,C,M,Pakistan,9C
+S1180,Mariam Santos,12,B,F,Jordan,12B
+S1181,Mark Nair,7,B,F,Philippines,7B
+S1182,Salma Ali,9,A,F,Jordan,9A
+S1183,Priya Ibrahim,10,C,M,UAE,10C
+S1184,Tariq Al Mazrouei,9,B,F,UAE,9B
+S1185,Noor Santos,9,C,M,UAE,9C
+S1186,Amna Rahman,7,C,F,Pakistan,7C
+S1187,Mariam Nair,8,A,F,Pakistan,8A
+S1188,Fatima Ali,7,A,M,Pakistan,7A
+S1189,Layla Ali,8,C,F,India,8C
+S1190,Arjun Yousef,10,B,F,Jordan,10B
+S1191,Maya Mohammed,10,B,F,Sudan,10B
+S1192,Arjun Mohammed,10,A,M,UAE,10A
+S1193,Priya Ibrahim,8,B,F,Jordan,8B
+S1194,Hamad Kumar,12,C,F,Egypt,12C
+S1195,Layla Menon,6,A,F,Pakistan,6A
+S1196,Khalid Santos,8,B,M,UAE,8B
+S1197,Rashid Mohammed,6,C,M,Jordan,6C
+S1198,Rashid Ibrahim,8,A,M,Bangladesh,8A
+S1199,Salma Menon,12,A,F,Jordan,12A
+S1200,Joy Yousef,8,C,M,Sudan,8C
+S1201,Maya Reyes,12,A,F,Bangladesh,12A
+S1202,Yusuf Reyes,9,B,M,India,9B
+S1203,Mark Menon,10,B,M,Egypt,10B
+S1204,Nadia Menon,9,C,M,India,9C
+S1205,Noor Kumar,7,A,M,Bangladesh,7A
+S1206,Hamad Ibrahim,11,B,M,UAE,11B
+S1207,Rashid Abdullah,12,A,F,India,12A
+S1208,Ahmed Rahman,7,C,M,Philippines,7C
+S1209,Omar Al Dhaheri,11,B,M,UAE,11B
+S1210,Omar Al Dhaheri,7,B,M,Jordan,7B
+S1211,Anika Abdullah,11,B,M,India,11B
+S1212,Joy Al Mazrouei,11,A,F,Bangladesh,11A
+S1213,Fatima Hassan,9,C,M,Sudan,9C
+S1214,Maya Ibrahim,11,B,F,India,11B
+S1215,Amna Khan,7,A,M,Jordan,7A
+S1216,Bilal Ibrahim,6,B,M,India,6B
+S1217,Omar Yousef,6,C,F,Pakistan,6C
+S1218,Tariq Al Mazrouei,9,C,M,Egypt,9C
+S1219,Ali Abdullah,12,B,M,Philippines,12B
+S1220,Bilal Abdullah,6,A,M,UAE,6A
+S1221,Hana Ibrahim,9,B,F,UAE,9B
+S1222,Bilal Khan,10,B,F,Egypt,10B
+S1223,Hamad Ali,7,B,M,Pakistan,7B
+S1224,Zainab Al Dhaheri,11,A,M,India,11A
+S1225,Rashid Ibrahim,8,B,M,UAE,8B
+S1226,Rashid Ahmed,11,B,M,India,11B
+S1227,Fatima Ahmed,10,C,F,Philippines,10C
+S1228,Ali Kumar,9,B,M,UAE,9B
+S1229,Hana Hassan,7,B,F,India,7B
+S1230,Karim Yousef,9,B,M,Bangladesh,9B
+S1231,Mariam Yousef,11,A,M,UAE,11A
+S1232,Nadia Santos,6,A,M,Jordan,6A
+S1233,Tariq Mohammed,11,C,M,UAE,11C
+S1234,Layla Al Mazrouei,9,C,F,Philippines,9C
+S1235,Zainab Nair,11,C,F,Jordan,11C
+S1236,Nadia Menon,10,B,F,Sudan,10B
+S1237,Amna Khan,9,A,M,UAE,9A
+S1238,Bilal Khan,8,C,F,Pakistan,8C
+S1239,Hana Abdullah,10,B,M,Jordan,10B
+S1240,Tariq Ahmed,6,A,F,UAE,6A
+S1241,Salma Menon,10,C,F,UAE,10C
+S1242,Sara Abdullah,6,C,F,UAE,6C
+S1243,Joy Ahmed,10,C,F,Bangladesh,10C
+S1244,Rahul Khan,10,A,F,Egypt,10A
+S1245,Rashid Rahman,6,C,F,Egypt,6C
+S1246,Mark Santos,11,B,M,Jordan,11B
+S1247,Zayed Al Dhaheri,8,B,M,Pakistan,8B
+S1248,Mark Kumar,11,C,M,India,11C
+S1249,Omar Santos,6,B,F,India,6B
+S1250,Amna Rahman,7,A,M,Egypt,7A
+S1251,Tariq Khan,9,A,M,UAE,9A
+S1252,Zayed Khan,7,B,M,Sudan,7B
+S1253,Hamad Reyes,8,C,F,Philippines,8C
+S1254,Salma Al Mazrouei,10,C,M,India,10C
+S1255,Priya Nair,7,B,M,Pakistan,7B
+S1256,Khalid Hassan,10,C,F,UAE,10C
+S1257,Khalid Rahman,6,C,F,Bangladesh,6C
+S1258,Faisal Ali,7,B,M,Sudan,7B
+S1259,Bilal Rahman,10,B,F,Sudan,10B
+S1260,Aisha Al Dhaheri,11,C,F,India,11C
+S1261,Noor Nair,7,B,M,UAE,7B
+S1262,Mark Abdullah,8,A,F,UAE,8A
+S1263,Mark Mohammed,12,C,F,UAE,12C
+S1264,Maya Mohammed,12,B,F,UAE,12B
+S1265,Hana Mohammed,10,B,M,UAE,10B
+S1266,Karim Kumar,9,C,F,Bangladesh,9C
+S1267,Priya Al Mazrouei,8,C,M,UAE,8C
+S1268,Bilal Ibrahim,10,A,F,UAE,10A
+S1269,Nadia Menon,10,B,M,Philippines,10B
+S1270,Anika Ibrahim,8,A,M,Pakistan,8A
+S1271,Tariq Abdullah,6,B,M,Jordan,6B
+S1272,Zayed Rahman,7,B,M,Egypt,7B
+S1273,Rashid Kumar,12,B,F,Sudan,12B
+S1274,Zainab Abdullah,8,C,M,Egypt,8C
+S1275,Ahmed Menon,9,B,M,Pakistan,9B
+S1276,Hana Reyes,9,B,M,Egypt,9B
+S1277,Zayed Ali,11,B,M,India,11B
+S1278,Yusuf Abdullah,6,A,M,India,6A
+S1279,Ahmed Ibrahim,6,A,F,India,6A
+S1280,Arjun Rahman,7,C,F,UAE,7C
+S1281,Mark Menon,9,A,F,Jordan,9A
+S1282,Rashid Al Dhaheri,10,A,F,UAE,10A
+S1283,Aisha Santos,9,C,M,UAE,9C
+S1284,Faisal Reyes,9,A,M,UAE,9A
+S1285,Priya Mohammed,12,B,F,Philippines,12B
+S1286,Ahmed Khan,7,C,F,India,7C
+S1287,Aisha Ibrahim,10,B,M,Egypt,10B
+S1288,Zayed Nair,9,A,M,Philippines,9A
+S1289,Hamad Al Mazrouei,9,A,M,UAE,9A
+S1290,Priya Reyes,11,C,M,Jordan,11C
+S1291,Zainab Rahman,7,A,M,India,7A
+S1292,Hana Hassan,12,C,M,UAE,12C
+S1293,Mariam Ali,8,A,F,Egypt,8A
+S1294,Maya Al Mazrouei,9,A,M,Sudan,9A
+S1295,Hana Hassan,9,C,F,UAE,9C
+S1296,Khalid Yousef,11,C,F,Pakistan,11C
+S1297,Rashid Mohammed,9,C,F,UAE,9C
+S1298,Bilal Ahmed,7,C,F,Pakistan,7C
+S1299,Joy Ali,6,A,F,Egypt,6A
+S1300,Anika Rahman,8,C,M,Pakistan,8C
+S1301,Faisal Kumar,11,C,M,Egypt,11C
+S1302,Rahul Reyes,6,A,F,UAE,6A
+S1303,Rashid Yousef,12,A,M,Egypt,12A
+S1304,Noor Ahmed,9,C,F,Egypt,9C
+S1305,Priya Kumar,6,A,F,Egypt,6A
+S1306,Ali Abdullah,8,C,M,UAE,8C
+S1307,Fatima Al Dhaheri,9,A,F,India,9A
+S1308,Rashid Yousef,8,A,M,India,8A
+S1309,Joy Rahman,6,A,M,UAE,6A
+S1310,Rahul Menon,10,A,F,UAE,10A
+S1311,Salma Mohammed,10,C,F,India,10C
+S1312,Hana Ahmed,6,C,M,Jordan,6C
+S1313,Yusuf Ahmed,7,C,M,UAE,7C
+S1314,Mariam Hassan,7,C,M,Philippines,7C
+S1315,Joy Yousef,10,A,F,Pakistan,10A
+S1316,Faisal Yousef,11,C,F,Jordan,11C
+S1317,Rahul Ibrahim,11,B,M,India,11B
+S1318,Aisha Al Dhaheri,12,B,M,India,12B
+S1319,Noor Al Mazrouei,11,C,F,Pakistan,11C
+S1320,Rashid Kumar,8,C,M,Sudan,8C
+S1321,Salma Rahman,6,C,M,India,6C
+S1322,Anika Ahmed,10,B,F,Pakistan,10B
+S1323,Mark Rahman,12,B,F,Pakistan,12B
+S1324,Zayed Ahmed,12,C,M,Jordan,12C
+S1325,Hamad Santos,7,A,M,UAE,7A
+S1326,Fatima Kumar,7,A,F,Pakistan,7A
+S1327,Rahul Al Dhaheri,6,B,F,India,6B
+S1328,Sara Menon,6,A,M,Sudan,6A
+S1329,Maya Kumar,9,A,F,India,9A
+S1330,Hamad Reyes,9,C,M,India,9C
+S1331,Ali Abdullah,8,C,M,Bangladesh,8C
+S1332,Hamad Al Mazrouei,8,B,M,India,8B
+S1333,Omar Ibrahim,11,B,F,UAE,11B
+S1334,Salma Al Mazrouei,9,B,F,UAE,9B
+S1335,Ahmed Al Dhaheri,11,C,F,UAE,11C
+S1336,Tariq Mohammed,12,B,M,UAE,12B
+S1337,Nadia Yousef,8,A,F,India,8A
+S1338,Rahul Kumar,7,B,F,Jordan,7B
+S1339,Aisha Abdullah,12,B,F,Jordan,12B
+S1340,Nadia Yousef,10,C,F,UAE,10C
+S1341,Ahmed Kumar,8,C,F,Pakistan,8C
+S1342,Ahmed Al Mazrouei,10,C,M,UAE,10C
+S1343,Tariq Nair,9,B,M,Bangladesh,9B
+S1344,Yusuf Ali,12,B,F,UAE,12B
+S1345,Hamad Abdullah,7,B,F,Egypt,7B
+S1346,Ali Al Mazrouei,12,A,F,India,12A
+S1347,Salma Menon,12,C,M,Egypt,12C
+S1348,Hamad Mohammed,7,C,F,India,7C
+S1349,Rashid Al Mazrouei,7,C,M,Jordan,7C
+S1350,Nadia Santos,9,A,F,UAE,9A
+S1351,Zainab Reyes,6,A,F,Sudan,6A
+S1352,Priya Mohammed,8,C,M,Pakistan,8C
+S1353,Hamad Nair,9,B,M,Jordan,9B
+S1354,Hana Abdullah,12,C,M,Philippines,12C
+S1355,Rashid Ibrahim,12,B,M,Bangladesh,12B
+S1356,Karim Abdullah,7,B,M,UAE,7B
+S1357,Tariq Hassan,12,B,M,UAE,12B
+S1358,Bilal Ali,6,C,F,UAE,6C
+S1359,Ali Santos,11,B,F,UAE,11B
+S1360,Yusuf Hassan,11,C,F,Pakistan,11C
+S1361,Maya Reyes,12,A,F,Bangladesh,12A
+S1362,Mark Nair,7,B,F,Bangladesh,7B
+S1363,Zainab Al Dhaheri,12,C,F,Pakistan,12C
+S1364,Zainab Ibrahim,6,C,F,Egypt,6C
+S1365,Ali Yousef,9,C,M,Philippines,9C
+S1366,Hana Kumar,9,A,F,Sudan,9A
+S1367,Maya Ahmed,8,C,M,UAE,8C
+S1368,Rahul Hassan,6,C,F,Pakistan,6C
+S1369,Karim Santos,11,C,M,Philippines,11C
+S1370,Maya Khan,8,A,M,India,8A
+S1371,Yusuf Ali,10,C,F,India,10C
+S1372,Khalid Ahmed,8,C,F,Bangladesh,8C
+S1373,Mark Yousef,8,C,M,Bangladesh,8C
+S1374,Nadia Ali,12,A,M,Sudan,12A
+S1375,Omar Santos,6,C,F,Jordan,6C
+S1376,Amna Reyes,11,A,M,UAE,11A
+S1377,Sara Rahman,11,B,M,India,11B
+S1378,Layla Khan,8,B,F,Pakistan,8B
+S1379,Yusuf Ibrahim,7,B,F,Pakistan,7B
+S1380,Fatima Al Dhaheri,6,C,F,Pakistan,6C
+S1381,Layla Nair,12,A,M,Egypt,12A
+S1382,Maya Al Mazrouei,12,B,M,India,12B
+S1383,Zayed Rahman,7,B,M,Jordan,7B
+S1384,Salma Mohammed,6,B,M,India,6B
+S1385,Anika Ibrahim,6,A,F,India,6A
+S1386,Ali Santos,6,A,F,UAE,6A
+S1387,Anika Ahmed,11,A,F,UAE,11A
+S1388,Salma Kumar,12,B,F,Philippines,12B
+S1389,Rashid Menon,7,B,M,India,7B
+S1390,Faisal Hassan,11,B,M,UAE,11B
+S1391,Layla Reyes,7,B,F,Jordan,7B
+S1392,Ahmed Nair,8,A,M,Pakistan,8A
+S1393,Maya Ibrahim,10,A,M,UAE,10A
+S1394,Anika Reyes,11,B,F,India,11B
+S1395,Zayed Menon,12,C,M,UAE,12C
+S1396,Faisal Yousef,6,A,M,Egypt,6A
+S1397,Sara Ali,7,C,M,UAE,7C
+S1398,Priya Mohammed,7,B,M,UAE,7B
+S1399,Aisha Hassan,8,A,F,UAE,8A
+S1400,Mark Nair,12,B,M,Pakistan,12B
+S1401,Noor Ibrahim,11,A,F,UAE,11A
+S1402,Khalid Khan,8,A,M,Philippines,8A
+S1403,Layla Abdullah,12,B,F,UAE,12B
+S1404,Aisha Hassan,9,B,F,Pakistan,9B
+S1405,Omar Menon,9,C,M,India,9C
+S1406,Hamad Kumar,9,A,F,India,9A
+S1407,Arjun Kumar,7,C,F,UAE,7C
+S1408,Rahul Rahman,12,A,M,Philippines,12A
+S1409,Mark Rahman,6,A,F,Sudan,6A
+S1410,Salma Ahmed,7,C,M,UAE,7C
+S1411,Arjun Mohammed,7,C,F,UAE,7C
+S1412,Hamad Abdullah,7,B,F,Sudan,7B
+S1413,Zainab Reyes,6,A,M,Pakistan,6A
+S1414,Noor Kumar,6,A,F,UAE,6A
+S1415,Amna Khan,10,B,F,UAE,10B
+S1416,Khalid Menon,12,B,M,Egypt,12B
+S1417,Zayed Al Dhaheri,6,C,M,Jordan,6C
+S1418,Hana Mohammed,8,A,F,Pakistan,8A
+S1419,Zayed Ahmed,9,A,M,Bangladesh,9A
+S1420,Karim Menon,12,C,M,India,12C
+S1421,Salma Santos,10,A,M,India,10A
+S1422,Mariam Al Mazrouei,11,A,F,India,11A
+S1423,Salma Ahmed,10,B,M,India,10B
+S1424,Nadia Al Dhaheri,8,B,M,UAE,8B
+S1425,Noor Al Mazrouei,7,B,M,UAE,7B
+S1426,Omar Nair,12,C,F,India,12C
+S1427,Arjun Al Dhaheri,11,C,M,Egypt,11C
+S1428,Faisal Rahman,6,A,M,UAE,6A
+S1429,Hamad Menon,11,C,F,India,11C
+S1430,Karim Ibrahim,6,B,M,Egypt,6B
+S1431,Omar Al Mazrouei,11,A,M,Pakistan,11A
+S1432,Mark Al Dhaheri,11,C,F,Jordan,11C
+S1433,Rahul Santos,6,A,M,Philippines,6A
+S1434,Karim Al Mazrouei,9,B,F,Egypt,9B
+S1435,Anika Yousef,6,C,M,UAE,6C
+S1436,Ali Nair,9,A,M,India,9A
+S1437,Faisal Hassan,12,A,M,Pakistan,12A
+S1438,Amna Santos,6,B,F,UAE,6B
+S1439,Sara Santos,8,C,M,UAE,8C
+S1440,Mariam Al Mazrouei,12,A,F,UAE,12A
+S1441,Noor Al Dhaheri,8,B,M,India,8B
+S1442,Hana Abdullah,6,B,M,India,6B
+S1443,Mariam Al Mazrouei,9,A,F,UAE,9A
+S1444,Yusuf Menon,9,C,F,Philippines,9C
+S1445,Noor Rahman,10,C,F,Sudan,10C
+S1446,Aisha Ibrahim,8,B,M,UAE,8B
+S1447,Hana Santos,12,A,F,Sudan,12A
+S1448,Maya Kumar,9,A,F,UAE,9A
+S1449,Amna Abdullah,8,B,F,Sudan,8B
+S1450,Rashid Hassan,12,B,F,Bangladesh,12B
+S1451,Sara Ibrahim,12,B,F,UAE,12B
+S1452,Arjun Nair,9,A,F,Jordan,9A
+S1453,Tariq Rahman,6,B,F,Bangladesh,6B
+S1454,Mark Mohammed,10,A,M,Sudan,10A
+S1455,Layla Nair,9,C,F,Bangladesh,9C
+S1456,Nadia Ibrahim,7,C,M,Pakistan,7C
+S1457,Hamad Reyes,10,B,M,UAE,10B
+S1458,Amna Al Mazrouei,11,A,M,Philippines,11A
+S1459,Amna Rahman,6,C,F,Pakistan,6C
+S1460,Mark Yousef,11,A,F,Pakistan,11A
+S1461,Khalid Khan,6,C,M,India,6C
+S1462,Priya Al Mazrouei,11,A,M,Pakistan,11A
+S1463,Zayed Khan,8,B,M,UAE,8B
+S1464,Aisha Reyes,6,A,F,Jordan,6A
+S1465,Fatima Al Mazrouei,12,A,F,UAE,12A
+S1466,Tariq Nair,7,C,F,Jordan,7C
+S1467,Joy Al Mazrouei,10,C,F,Philippines,10C
+S1468,Mariam Al Dhaheri,7,A,M,India,7A
+S1469,Bilal Ali,12,C,F,Pakistan,12C
+S1470,Amna Nair,11,A,F,India,11A
+S1471,Fatima Ali,11,A,M,Bangladesh,11A
+S1472,Sara Ali,9,A,M,Jordan,9A
+S1473,Zainab Abdullah,9,B,F,India,9B
+S1474,Amna Al Mazrouei,10,A,F,UAE,10A
+S1475,Noor Abdullah,11,B,M,UAE,11B
+S1476,Rashid Ali,11,A,M,India,11A
+S1477,Ali Khan,6,A,M,Bangladesh,6A
+S1478,Anika Kumar,10,B,M,Jordan,10B
+S1479,Faisal Abdullah,6,C,M,UAE,6C
+S1480,Noor Hassan,8,C,F,Philippines,8C
+S1481,Hamad Reyes,11,B,F,India,11B
+S1482,Maya Rahman,7,A,M,Philippines,7A
+S1483,Faisal Ali,11,C,F,UAE,11C
+S1484,Tariq Ahmed,9,C,F,Pakistan,9C
+S1485,Fatima Ibrahim,7,C,F,Sudan,7C
+S1486,Nadia Abdullah,8,C,M,UAE,8C
+S1487,Mariam Ibrahim,9,C,F,Egypt,9C
+S1488,Maya Kumar,11,C,F,Bangladesh,11C
+S1489,Yusuf Ali,10,B,F,UAE,10B
+S1490,Noor Nair,12,B,F,UAE,12B
+S1491,Rashid Santos,12,A,M,Egypt,12A
+S1492,Rahul Ibrahim,11,A,F,India,11A
+S1493,Joy Al Dhaheri,10,C,M,UAE,10C
+S1494,Mark Al Mazrouei,8,C,F,India,8C
+S1495,Nadia Ibrahim,8,C,M,Jordan,8C
+S1496,Ahmed Al Mazrouei,6,A,M,UAE,6A
+S1497,Bilal Khan,8,B,M,India,8B
+S1498,Rahul Yousef,12,A,M,Philippines,12A
+S1499,Mark Yousef,8,C,F,Pakistan,8C
+S1500,Zayed Yousef,6,A,M,Philippines,6A
+S1501,Joy Ibrahim,10,A,M,India,10A
+S1502,Yusuf Reyes,12,B,M,Bangladesh,12B
+S1503,Mariam Ali,12,C,M,Egypt,12C
+S1504,Hamad Khan,7,C,M,UAE,7C
+S1505,Karim Khan,9,A,M,Sudan,9A
+S1506,Zainab Yousef,9,A,M,India,9A
+S1507,Omar Khan,7,A,M,UAE,7A
+S1508,Karim Menon,7,A,F,UAE,7A
+S1509,Yusuf Ahmed,7,B,F,Egypt,7B
+S1510,Hamad Al Mazrouei,12,A,F,UAE,12A
+S1511,Tariq Al Mazrouei,11,A,F,UAE,11A
+S1512,Maya Ahmed,11,B,F,UAE,11B
+S1513,Arjun Ali,11,A,F,India,11A
+S1514,Ahmed Khan,12,A,F,India,12A
+S1515,Arjun Reyes,6,A,F,Pakistan,6A
+S1516,Fatima Reyes,12,A,M,UAE,12A
+S1517,Hana Menon,6,B,M,UAE,6B
+S1518,Mariam Ali,9,C,M,Pakistan,9C
+S1519,Khalid Hassan,10,C,F,India,10C
+S1520,Bilal Al Mazrouei,8,A,F,Egypt,8A
+S1521,Ali Ali,7,A,M,UAE,7A
+S1522,Yusuf Hassan,7,B,F,UAE,7B
+S1523,Layla Mohammed,11,B,M,UAE,11B
+S1524,Faisal Abdullah,8,C,F,India,8C
+S1525,Khalid Al Mazrouei,8,C,F,India,8C
+S1526,Omar Ali,12,B,M,Philippines,12B
+S1527,Mariam Nair,7,A,F,India,7A
+S1528,Mark Abdullah,12,A,F,Pakistan,12A
+S1529,Mark Hassan,12,A,M,Pakistan,12A
+S1530,Priya Ali,10,A,F,UAE,10A
+S1531,Khalid Menon,7,C,M,Pakistan,7C
+S1532,Rashid Santos,7,A,F,India,7A
+S1533,Nadia Mohammed,7,C,F,India,7C
+S1534,Rashid Yousef,10,B,M,UAE,10B
+S1535,Nadia Ali,7,B,F,Jordan,7B
+S1536,Noor Kumar,9,B,M,Bangladesh,9B
+S1537,Bilal Ahmed,6,C,M,UAE,6C
+S1538,Mariam Santos,9,A,M,Pakistan,9A
+S1539,Tariq Menon,6,A,F,Jordan,6A
+S1540,Salma Al Mazrouei,10,B,M,UAE,10B
+S1541,Omar Kumar,6,B,M,Jordan,6B
+S1542,Layla Menon,7,B,M,Egypt,7B
+S1543,Hana Santos,7,C,F,Sudan,7C
+S1544,Salma Al Dhaheri,11,B,M,Bangladesh,11B
+S1545,Karim Reyes,6,A,F,UAE,6A
+S1546,Rahul Santos,9,A,M,India,9A
+S1547,Mariam Mohammed,10,C,F,Pakistan,10C
+S1548,Amna Khan,9,A,M,UAE,9A
+S1549,Layla Ahmed,10,B,M,India,10B
+S1550,Hamad Khan,11,B,F,Bangladesh,11B
+S1551,Zainab Nair,8,C,M,UAE,8C
+S1552,Tariq Abdullah,11,C,M,India,11C
+S1553,Faisal Reyes,8,B,F,Philippines,8B
+S1554,Hamad Nair,12,A,F,India,12A
+S1555,Layla Rahman,9,B,M,India,9B
+S1556,Anika Yousef,11,B,F,Bangladesh,11B
+S1557,Rahul Reyes,12,A,F,India,12A
+S1558,Rahul Santos,11,B,M,UAE,11B
+S1559,Hana Menon,11,A,F,UAE,11A
+S1560,Fatima Yousef,9,B,M,Bangladesh,9B
+S1561,Rahul Yousef,6,C,F,UAE,6C
+S1562,Maya Kumar,9,C,M,Pakistan,9C
+S1563,Salma Ali,7,A,F,UAE,7A
+S1564,Ali Al Dhaheri,12,C,M,India,12C
+S1565,Karim Reyes,7,A,M,Sudan,7A
+S1566,Zainab Abdullah,7,B,F,Pakistan,7B
+S1567,Mark Kumar,7,A,F,Bangladesh,7A
+S1568,Rashid Al Dhaheri,10,A,M,UAE,10A
+S1569,Aisha Nair,9,A,M,Pakistan,9A
+S1570,Hana Yousef,12,A,M,Philippines,12A
+S1571,Ali Al Mazrouei,8,C,F,India,8C
+S1572,Sara Ahmed,7,A,M,UAE,7A
+S1573,Faisal Santos,6,B,M,Philippines,6B
+S1574,Joy Yousef,6,C,F,India,6C
+S1575,Tariq Reyes,8,C,F,Pakistan,8C
+S1576,Priya Santos,12,C,F,Bangladesh,12C
+S1577,Priya Ibrahim,9,A,M,UAE,9A
+S1578,Layla Ali,12,C,F,India,12C
+S1579,Arjun Ali,6,B,F,UAE,6B
+S1580,Ahmed Santos,6,A,M,India,6A
+S1581,Aisha Ali,11,B,F,UAE,11B
+S1582,Arjun Reyes,6,C,M,Egypt,6C
+S1583,Rashid Rahman,6,B,M,UAE,6B
+S1584,Fatima Nair,8,A,M,Egypt,8A
+S1585,Layla Santos,12,C,M,UAE,12C
+S1586,Layla Santos,10,C,M,India,10C
+S1587,Karim Khan,6,C,M,India,6C
+S1588,Zayed Khan,11,C,M,Egypt,11C
+S1589,Zayed Mohammed,11,C,F,India,11C
+S1590,Omar Ibrahim,11,B,F,India,11B
+S1591,Aisha Ahmed,12,A,M,Philippines,12A
+S1592,Bilal Nair,7,B,F,Pakistan,7B
+S1593,Khalid Al Dhaheri,12,A,M,UAE,12A
+S1594,Amna Kumar,8,B,M,Sudan,8B
+S1595,Arjun Reyes,11,B,M,India,11B
+S1596,Layla Hassan,10,C,F,UAE,10C
+S1597,Amna Nair,11,A,F,India,11A
+S1598,Faisal Khan,10,A,F,UAE,10A
+S1599,Amna Menon,10,C,M,UAE,10C

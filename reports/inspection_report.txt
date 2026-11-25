@@ -1,0 +1,220 @@
+
+============================================================
+
+DATASET : students
+
+
+============================================================
+
+ First 5 records:
+  student_id             name  grade section gender  nationality class
+0      S1000      Priya Kumar      6       A      F        Egypt    6A
+1      S1001       Nadia Khan     11       B      M   Bangladesh   11B
+2      S1002        Joy Menon     10       B      M        India   10B
+3      S1003      Zayed Menon      9       A      M        India    9A
+4      S1004  Faisal Abdullah      9       A      F  Philippines    9A
+
+ No.of rows and cols:
+(600, 7)
+
+Column names:
+['student_id', 'name', 'grade', 'section', 'gender', 'nationality', 'class']
+
+ Datatypes and non null counts:
+<class 'pandas.DataFrame'>
+RangeIndex: 600 entries, 0 to 599
+Data columns (total 7 columns):
+ #   Column       Non-Null Count  Dtype
+---  ------       --------------  -----
+ 0   student_id   600 non-null    str  
+ 1   name         600 non-null    str  
+ 2   grade        600 non-null    int64
+ 3   section      600 non-null    str  
+ 4   gender       600 non-null    str  
+ 5   nationality  600 non-null    str  
+ 6   class        600 non-null    str  
+dtypes: int64(1), str(6)
+memory usage: 32.9 KB
+
+Missing values:
+student_id     0
+name           0
+grade          0
+section        0
+gender         0
+nationality    0
+class          0
+
+Duplicate rows:
+0
+
+============================================================
+
+DATASET : attendance
+
+
+============================================================
+
+ First 5 records:
+  student_id        date   status
+0      S1000  2026-09-01  Present
+1      S1000  2026-09-02  Present
+2      S1000  2026-09-03  Present
+3      S1000  2026-09-04  Present
+4      S1000  2026-09-07  Present
+
+ No.of rows and cols:
+(75600, 3)
+
+Column names:
+['student_id', 'date', 'status']
+
+ Datatypes and non null counts:
+<class 'pandas.DataFrame'>
+RangeIndex: 75600 entries, 0 to 75599
+Data columns (total 3 columns):
+ #   Column      Non-Null Count  Dtype
+---  ------      --------------  -----
+ 0   student_id  75600 non-null  str  
+ 1   date        75600 non-null  str  
+ 2   status      75600 non-null  str  
+dtypes: str(3)
+memory usage: 1.7 MB
+
+Missing values:
+student_id    0
+date          0
+status        0
+
+Duplicate rows:
+0
+
+ Attendance status values:
+status
+Present    69749
+Absent      3370
+Excused     2103
+present      352
+absent        15
+excused       11
+
+============================================================
+
+DATASET : fees
+
+
+============================================================
+
+ First 5 records:
+  student_id    term  amount_due  amount_paid   paid_date
+0      S1000  Term 1        4500          0.0         NaN
+1      S1000  Term 2        4500       4500.0  2026-12-30
+2      S1001  Term 1        6000       6000.0  2026-09-11
+3      S1001  Term 2        6000       6000.0  2026-12-22
+4      S1002  Term 1        5500       5500.0  2026-09-15
+
+ No.of rows and cols:
+(1200, 5)
+
+Column names:
+['student_id', 'term', 'amount_due', 'amount_paid', 'paid_date']
+
+ Datatypes and non null counts:
+<class 'pandas.DataFrame'>
+RangeIndex: 1200 entries, 0 to 1199
+Data columns (total 5 columns):
+ #   Column       Non-Null Count  Dtype  
+---  ------       --------------  -----  
+ 0   student_id   1200 non-null   str    
+ 1   term         1200 non-null   str    
+ 2   amount_due   1200 non-null   int64  
+ 3   amount_paid  1200 non-null   float64
+ 4   paid_date    1074 non-null   str    
+dtypes: float64(1), int64(1), str(3)
+memory usage: 47.0 KB
+
+Missing values:
+student_id       0
+term             0
+amount_due       0
+amount_paid      0
+paid_date      126
+
+Duplicate rows:
+0
+
+============================================================
+
+DATASET : exam results
+
+
+============================================================
+
+ First 5 records:
+  student_id           subject    term  score
+0      S1000           English  Term 1   45.8
+1      S1000       Mathematics  Term 1   49.4
+2      S1000           Science  Term 1   58.3
+3      S1000            Arabic  Term 1   40.4
+4      S1000  Computer Science  Term 1   55.1
+
+ No.of rows and cols:
+(7215, 4)
+
+Column names:
+['student_id', 'subject', 'term', 'score']
+
+ Datatypes and non null counts:
+<class 'pandas.DataFrame'>
+RangeIndex: 7215 entries, 0 to 7214
+Data columns (total 4 columns):
+ #   Column      Non-Null Count  Dtype  
+---  ------      --------------  -----  
+ 0   student_id  7215 non-null   str    
+ 1   subject     7215 non-null   str    
+ 2   term        7215 non-null   str    
+ 3   score       7143 non-null   float64
+dtypes: float64(1), str(3)
+memory usage: 225.6 KB
+
+Missing values:
+student_id     0
+subject        0
+term           0
+score         72
+
+Duplicate rows:
+15
+
+ duplicate student-subject-term combinations:
+student_id          subject   term  score
+     S1016 Computer Science Term 2   55.5
+     S1016 Computer Science Term 2   55.5
+     S1131   Social Studies Term 2   59.1
+     S1131   Social Studies Term 2   59.1
+     S1185      Mathematics Term 2   62.9
+     S1185      Mathematics Term 2   62.9
+     S1193           Arabic Term 2   63.8
+     S1193           Arabic Term 2   63.8
+     S1239           Arabic Term 1   86.2
+     S1239           Arabic Term 1   86.2
+     S1249 Computer Science Term 2   58.1
+     S1249 Computer Science Term 2   58.1
+     S1343      Mathematics Term 2   55.8
+     S1343      Mathematics Term 2   55.8
+     S1346 Computer Science Term 1   74.2
+     S1346 Computer Science Term 1   74.2
+     S1362 Computer Science Term 1   60.3
+     S1362 Computer Science Term 1   60.3
+     S1396           Arabic Term 2   64.6
+     S1396           Arabic Term 2   64.6
+     S1397          Science Term 1   63.4
+     S1397          Science Term 1   63.4
+     S1410 Computer Science Term 1   68.8
+     S1410 Computer Science Term 1   68.8
+     S1482          Science Term 1   60.3
+     S1482          Science Term 1   60.3
+     S1530          English Term 1   82.4
+     S1530          English Term 1   82.4
+     S1555      Mathematics Term 2   53.8
+     S1555      Mathematics Term 2   53.8

@@ -1,0 +1,16 @@
+#python cache
+__pycache__/
+*.py[cod]
+
+#venv
+venv/
+.venv/
+
+#sensitive confi
+.env
+*.ini
+
+#Temporary files
+*.log
+.DS_Store
+Thumbs.db

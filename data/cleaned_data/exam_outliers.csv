@@ -1,0 +1,46 @@
+student_id,subject,term,score
+S1023,Science,Term 2,29.9
+S1050,Arabic,Term 1,24.6
+S1072,English,Term 2,33.0
+S1085,Computer Science,Term 2,34.4
+S1103,English,Term 1,33.2
+S1103,Science,Term 1,28.1
+S1145,English,Term 2,25.9
+S1145,Science,Term 2,31.0
+S1151,Computer Science,Term 2,32.9
+S1155,Computer Science,Term 2,28.2
+S1175,Arabic,Term 1,29.5
+S1175,English,Term 2,32.1
+S1199,Social Studies,Term 1,18.2
+S1199,English,Term 2,16.4
+S1199,Mathematics,Term 2,26.4
+S1199,Science,Term 2,21.8
+S1199,Arabic,Term 2,31.4
+S1199,Computer Science,Term 2,20.4
+S1199,Social Studies,Term 2,25.8
+S1210,English,Term 2,29.6
+S1210,Mathematics,Term 2,33.9
+S1210,Arabic,Term 2,27.9
+S1210,Social Studies,Term 2,25.5
+S1245,Computer Science,Term 1,33.9
+S1277,English,Term 1,33.7
+S1277,Mathematics,Term 2,31.8
+S1344,English,Term 1,31.9
+S1344,Computer Science,Term 2,32.1
+S1348,Social Studies,Term 2,33.6
+S1354,Science,Term 2,31.3
+S1354,Social Studies,Term 2,28.0
+S1355,Mathematics,Term 2,32.1
+S1355,Science,Term 2,32.8
+S1355,Arabic,Term 2,26.6
+S1355,Computer Science,Term 2,29.2
+S1388,English,Term 2,29.2
+S1388,Arabic,Term 2,27.7
+S1392,Computer Science,Term 1,25.7
+S1392,Computer Science,Term 2,33.0
+S1400,Arabic,Term 2,26.8
+S1400,Computer Science,Term 2,28.1
+S1403,Mathematics,Term 2,33.4
+S1413,English,Term 2,28.0
+S1451,Computer Science,Term 2,34.3
+S1524,Science,Term 2,23.0

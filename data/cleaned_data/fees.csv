@@ -1,0 +1,1201 @@
+student_id,term,amount_due,amount_paid,paid_date,balance_amount,date_check,payment_status
+S1000,Term 1,4500,0.0,,4500.0,No payment date,Unpaid
+S1000,Term 2,4500,4500.0,2026-12-30,0.0,Future dated - Verify,Paid
+S1001,Term 1,6000,6000.0,2026-09-11,0.0,Valid date,Paid
+S1001,Term 2,6000,6000.0,2026-12-22,0.0,Future dated - Verify,Paid
+S1002,Term 1,5500,5500.0,2026-09-15,0.0,Valid date,Paid
+S1002,Term 2,5500,5500.0,2026-12-16,0.0,Future dated - Verify,Paid
+S1003,Term 1,5000,5000.0,2026-09-17,0.0,Valid date,Paid
+S1003,Term 2,5000,5000.0,2026-12-10,0.0,Future dated - Verify,Paid
+S1004,Term 1,5000,5000.0,2026-09-16,0.0,Valid date,Paid
+S1004,Term 2,5000,5000.0,2026-12-20,0.0,Future dated - Verify,Paid
+S1005,Term 1,6000,6000.0,2026-09-12,0.0,Valid date,Paid
+S1005,Term 2,6000,6000.0,2026-12-08,0.0,Future dated - Verify,Paid
+S1006,Term 1,4500,2540.0,2026-09-16,1960.0,Valid date,Partially Paid
+S1006,Term 2,4500,4500.0,2026-12-07,0.0,Future dated - Verify,Paid
+S1007,Term 1,5500,0.0,,5500.0,No payment date,Unpaid
+S1007,Term 2,5500,5500.0,2026-12-16,0.0,Future dated - Verify,Paid
+S1008,Term 1,4500,4500.0,2026-09-03,0.0,Valid date,Paid
+S1008,Term 2,4500,0.0,,4500.0,No payment date,Unpaid
+S1009,Term 1,4500,4500.0,2026-09-24,0.0,Valid date,Paid
+S1009,Term 2,4500,4500.0,2026-12-03,0.0,Future dated - Verify,Paid
+S1010,Term 1,5000,5000.0,2026-09-22,0.0,Valid date,Paid
+S1010,Term 2,5000,5000.0,2026-12-02,0.0,Future dated - Verify,Paid
+S1011,Term 1,6000,6000.0,2026-09-12,0.0,Valid date,Paid
+S1011,Term 2,6000,0.0,,6000.0,No payment date,Unpaid
+S1012,Term 1,6000,6000.0,2026-09-15,0.0,Valid date,Paid
+S1012,Term 2,6000,3790.0,2026-12-21,2210.0,Future dated - Verify,Partially Paid
+S1013,Term 1,6000,1890.0,2026-10-25,4110.0,Valid date,Partially Paid
+S1013,Term 2,6000,6000.0,2026-12-27,0.0,Future dated - Verify,Paid
+S1014,Term 1,6000,6000.0,2026-09-08,0.0,Valid date,Paid
+S1014,Term 2,6000,6000.0,2026-12-04,0.0,Future dated - Verify,Paid
+S1015,Term 1,6000,0.0,,6000.0,No payment date,Unpaid
+S1015,Term 2,6000,6000.0,2026-12-07,0.0,Future dated - Verify,Paid
+S1016,Term 1,5000,5000.0,2026-09-20,0.0,Valid date,Paid
+S1016,Term 2,5000,5000.0,2026-12-09,0.0,Future dated - Verify,Paid
+S1017,Term 1,4500,4500.0,2026-09-30,0.0,Valid date,Paid
+S1017,Term 2,4500,4500.0,2026-12-21,0.0,Future dated - Verify,Paid
+S1018,Term 1,6000,6000.0,2026-09-04,0.0,Valid date,Paid
+S1018,Term 2,6000,6000.0,2026-12-05,0.0,Future dated - Verify,Paid
+S1019,Term 1,5000,5000.0,2026-09-29,0.0,Valid date,Paid
+S1019,Term 2,5000,5000.0,2026-12-22,0.0,Future dated - Verify,Paid
+S1020,Term 1,5000,5000.0,2026-09-06,0.0,Valid date,Paid
+S1020,Term 2,5000,5000.0,2026-12-16,0.0,Future dated - Verify,Paid
+S1021,Term 1,5000,5000.0,2026-09-30,0.0,Valid date,Paid
+S1021,Term 2,5000,5000.0,2026-12-19,0.0,Future dated - Verify,Paid
+S1022,Term 1,4500,4500.0,2026-09-12,0.0,Valid date,Paid
+S1022,Term 2,4500,2300.0,2027-01-08,2200.0,Future dated - Verify,Partially Paid
+S1023,Term 1,6000,6000.0,2026-09-15,0.0,Valid date,Paid
+S1023,Term 2,6000,2500.0,2027-01-20,3500.0,Future dated - Verify,Partially Paid
+S1024,Term 1,6000,6000.0,2026-09-19,0.0,Valid date,Paid
+S1024,Term 2,6000,3900.0,2027-01-14,2100.0,Future dated - Verify,Partially Paid
+S1025,Term 1,5500,5500.0,2026-09-01,0.0,Valid date,Paid
+S1025,Term 2,5500,5500.0,2026-12-11,0.0,Future dated - Verify,Paid
+S1026,Term 1,5000,3510.0,2026-10-23,1490.0,Valid date,Partially Paid
+S1026,Term 2,5000,0.0,,5000.0,No payment date,Unpaid
+S1027,Term 1,6000,0.0,,6000.0,No payment date,Unpaid
+S1027,Term 2,6000,6000.0,2026-12-15,0.0,Future dated - Verify,Paid
+S1028,Term 1,5000,5000.0,2026-09-26,0.0,Valid date,Paid
+S1028,Term 2,5000,5000.0,2026-12-14,0.0,Future dated - Verify,Paid
+S1029,Term 1,5000,5000.0,2026-09-07,0.0,Valid date,Paid
+S1029,Term 2,5000,5000.0,2026-12-25,0.0,Future dated - Verify,Paid
+S1030,Term 1,5000,5000.0,2026-09-19,0.0,Valid date,Paid
+S1030,Term 2,5000,5000.0,2026-12-09,0.0,Future dated - Verify,Paid
+S1031,Term 1,4500,4500.0,2026-09-17,0.0,Valid date,Paid
+S1031,Term 2,4500,4500.0,2026-12-13,0.0,Future dated - Verify,Paid
+S1032,Term 1,4500,2420.0,2026-10-23,2080.0,Valid date,Partially Paid
+S1032,Term 2,4500,4500.0,2026-12-18,0.0,Future dated - Verify,Paid
+S1033,Term 1,5000,5000.0,2026-09-17,0.0,Valid date,Paid
+S1033,Term 2,5000,5000.0,2026-12-25,0.0,Future dated - Verify,Paid
+S1034,Term 1,6000,0.0,,6000.0,No payment date,Unpaid
+S1034,Term 2,6000,6000.0,2026-12-16,0.0,Future dated - Verify,Paid
+S1035,Term 1,4500,4500.0,2026-09-22,0.0,Valid date,Paid
+S1035,Term 2,4500,4500.0,2026-12-25,0.0,Future dated - Verify,Paid
+S1036,Term 1,6000,6000.0,2026-09-27,0.0,Valid date,Paid
+S1036,Term 2,6000,6000.0,2026-12-26,0.0,Future dated - Verify,Paid
+S1037,Term 1,6000,1980.0,2026-10-21,4020.0,Valid date,Partially Paid
+S1037,Term 2,6000,6000.0,2026-12-23,0.0,Future dated - Verify,Paid
+S1038,Term 1,4500,4500.0,2026-09-07,0.0,Valid date,Paid
+S1038,Term 2,4500,4500.0,2026-12-25,0.0,Future dated - Verify,Paid
+S1039,Term 1,5500,5500.0,2026-09-18,0.0,Valid date,Paid
+S1039,Term 2,5500,5500.0,2026-12-26,0.0,Future dated - Verify,Paid
+S1040,Term 1,4500,4500.0,2026-09-30,0.0,Valid date,Paid
+S1040,Term 2,4500,4500.0,2026-12-21,0.0,Future dated - Verify,Paid
+S1041,Term 1,6000,6000.0,2026-09-30,0.0,Valid date,Paid
+S1041,Term 2,6000,6000.0,2026-12-26,0.0,Future dated - Verify,Paid
+S1042,Term 1,5500,5500.0,2026-09-02,0.0,Valid date,Paid
+S1042,Term 2,5500,5500.0,2026-12-17,0.0,Future dated - Verify,Paid
+S1043,Term 1,5000,0.0,,5000.0,No payment date,Unpaid
+S1043,Term 2,5000,5000.0,2026-12-03,0.0,Future dated - Verify,Paid
+S1044,Term 1,4500,4500.0,2026-09-27,0.0,Valid date,Paid
+S1044,Term 2,4500,4500.0,2026-12-24,0.0,Future dated - Verify,Paid
+S1045,Term 1,6000,6000.0,2026-09-27,0.0,Valid date,Paid
+S1045,Term 2,6000,6000.0,2026-12-12,0.0,Future dated - Verify,Paid
+S1046,Term 1,5000,5000.0,2026-09-07,0.0,Valid date,Paid
+S1046,Term 2,5000,5000.0,2026-12-06,0.0,Future dated - Verify,Paid
+S1047,Term 1,6000,6000.0,2026-09-06,0.0,Valid date,Paid
+S1047,Term 2,6000,6000.0,2026-12-18,0.0,Future dated - Verify,Paid
+S1048,Term 1,5500,5500.0,2026-09-08,0.0,Valid date,Paid
+S1048,Term 2,5500,5500.0,2026-12-28,0.0,Future dated - Verify,Paid
+S1049,Term 1,6000,6000.0,2026-09-06,0.0,Valid date,Paid
+S1049,Term 2,6000,6000.0,2026-12-28,0.0,Future dated - Verify,Paid
+S1050,Term 1,6000,6000.0,2026-09-11,0.0,Valid date,Paid
+S1050,Term 2,6000,6000.0,2026-12-22,0.0,Future dated - Verify,Paid
+S1051,Term 1,4500,4500.0,2026-09-27,0.0,Valid date,Paid
+S1051,Term 2,4500,4500.0,2026-12-06,0.0,Future dated - Verify,Paid
+S1052,Term 1,5000,5000.0,2026-09-14,0.0,Valid date,Paid
+S1052,Term 2,5000,1840.0,2026-12-27,3160.0,Future dated - Verify,Partially Paid
+S1053,Term 1,5000,2120.0,2026-10-15,2880.0,Valid date,Partially Paid
+S1053,Term 2,5000,5000.0,2026-12-14,0.0,Future dated - Verify,Paid
+S1054,Term 1,5000,5000.0,2026-09-18,0.0,Valid date,Paid
+S1054,Term 2,5000,5000.0,2026-12-04,0.0,Future dated - Verify,Paid
+S1055,Term 1,4500,4500.0,2026-09-28,0.0,Valid date,Paid
+S1055,Term 2,4500,4500.0,2026-12-22,0.0,Future dated - Verify,Paid
+S1056,Term 1,5000,5000.0,2026-09-22,0.0,Valid date,Paid
+S1056,Term 2,5000,5000.0,2026-12-10,0.0,Future dated - Verify,Paid
+S1057,Term 1,4500,2060.0,2026-10-03,2440.0,Valid date,Partially Paid
+S1057,Term 2,4500,4500.0,2026-12-02,0.0,Future dated - Verify,Paid
+S1058,Term 1,6000,6000.0,2026-09-01,0.0,Valid date,Paid
+S1058,Term 2,6000,6000.0,2026-12-22,0.0,Future dated - Verify,Paid
+S1059,Term 1,5500,5500.0,2026-09-07,0.0,Valid date,Paid
+S1059,Term 2,5500,5500.0,2026-12-21,0.0,Future dated - Verify,Paid
+S1060,Term 1,6000,0.0,,6000.0,No payment date,Unpaid
+S1060,Term 2,6000,6000.0,2026-12-10,0.0,Future dated - Verify,Paid
+S1061,Term 1,6000,6000.0,2026-09-09,0.0,Valid date,Paid
+S1061,Term 2,6000,0.0,,6000.0,No payment date,Unpaid
+S1062,Term 1,5000,5000.0,2026-09-13,0.0,Valid date,Paid
+S1062,Term 2,5000,5000.0,2026-12-03,0.0,Future dated - Verify,Paid
+S1063,Term 1,6000,6000.0,2026-09-07,0.0,Valid date,Paid
+S1063,Term 2,6000,6000.0,2026-12-23,0.0,Future dated - Verify,Paid
+S1064,Term 1,5000,5000.0,2026-09-29,0.0,Valid date,Paid
+S1064,Term 2,5000,5000.0,2026-12-05,0.0,Future dated - Verify,Paid
+S1065,Term 1,5000,5000.0,2026-09-29,0.0,Valid date,Paid
+S1065,Term 2,5000,5000.0,2026-12-30,0.0,Future dated - Verify,Paid
+S1066,Term 1,6000,6000.0,2026-09-05,0.0,Valid date,Paid
+S1066,Term 2,6000,3220.0,2027-01-10,2780.0,Future dated - Verify,Partially Paid
+S1067,Term 1,5000,1700.0,2026-10-28,3300.0,Valid date,Partially Paid
+S1067,Term 2,5000,5000.0,2026-12-04,0.0,Future dated - Verify,Paid
+S1068,Term 1,4500,0.0,,4500.0,No payment date,Unpaid
+S1068,Term 2,4500,4500.0,2026-12-22,0.0,Future dated - Verify,Paid
+S1069,Term 1,5000,5000.0,2026-09-22,0.0,Valid date,Paid
+S1069,Term 2,5000,5000.0,2026-12-04,0.0,Future dated - Verify,Paid
+S1070,Term 1,6000,6000.0,2026-09-11,0.0,Valid date,Paid
+S1070,Term 2,6000,6000.0,2026-12-09,0.0,Future dated - Verify,Paid
+S1071,Term 1,4500,0.0,,4500.0,No payment date,Unpaid
+S1071,Term 2,4500,4500.0,2026-12-21,0.0,Future dated - Verify,Paid
+S1072,Term 1,5000,1560.0,2026-10-16,3440.0,Valid date,Partially Paid
+S1072,Term 2,5000,5000.0,2026-12-21,0.0,Future dated - Verify,Paid
+S1073,Term 1,4500,4500.0,2026-09-06,0.0,Valid date,Paid
+S1073,Term 2,4500,4500.0,2026-12-29,0.0,Future dated - Verify,Paid
+S1074,Term 1,5500,5500.0,2026-09-17,0.0,Valid date,Paid
+S1074,Term 2,5500,0.0,,5500.0,No payment date,Unpaid
+S1075,Term 1,5000,5000.0,2026-09-25,0.0,Valid date,Paid
+S1075,Term 2,5000,5000.0,2026-12-21,0.0,Future dated - Verify,Paid
+S1076,Term 1,5000,0.0,,5000.0,No payment date,Unpaid
+S1076,Term 2,5000,5000.0,2026-12-09,0.0,Future dated - Verify,Paid
+S1077,Term 1,4500,4500.0,2026-09-08,0.0,Valid date,Paid
+S1077,Term 2,4500,0.0,,4500.0,No payment date,Unpaid
+S1078,Term 1,5000,5000.0,2026-09-02,0.0,Valid date,Paid
+S1078,Term 2,5000,0.0,,5000.0,No payment date,Unpaid
+S1079,Term 1,5500,2110.0,2026-09-11,3390.0,Valid date,Partially Paid
+S1079,Term 2,5500,5500.0,2026-12-17,0.0,Future dated - Verify,Paid
+S1080,Term 1,6000,6000.0,2026-09-08,0.0,Valid date,Paid
+S1080,Term 2,6000,6000.0,2026-12-23,0.0,Future dated - Verify,Paid
+S1081,Term 1,5000,5000.0,2026-09-09,0.0,Valid date,Paid
+S1081,Term 2,5000,5000.0,2026-12-18,0.0,Future dated - Verify,Paid
+S1082,Term 1,4500,4500.0,2026-09-05,0.0,Valid date,Paid
+S1082,Term 2,4500,3380.0,2026-12-12,1120.0,Future dated - Verify,Partially Paid
+S1083,Term 1,6000,6000.0,2026-09-23,0.0,Valid date,Paid
+S1083,Term 2,6000,4510.0,2027-01-02,1490.0,Future dated - Verify,Partially Paid
+S1084,Term 1,5500,5500.0,2026-09-15,0.0,Valid date,Paid
+S1084,Term 2,5500,5500.0,2026-12-17,0.0,Future dated - Verify,Paid
+S1085,Term 1,5500,3590.0,2026-09-26,1910.0,Valid date,Partially Paid
+S1085,Term 2,5500,4360.0,2027-01-19,1140.0,Future dated - Verify,Partially Paid
+S1086,Term 1,4500,0.0,,4500.0,No payment date,Unpaid
+S1086,Term 2,4500,4500.0,2026-12-08,0.0,Future dated - Verify,Paid
+S1087,Term 1,5000,5000.0,2026-09-27,0.0,Valid date,Paid
+S1087,Term 2,5000,5000.0,2026-12-25,0.0,Future dated - Verify,Paid
+S1088,Term 1,6000,6000.0,2026-09-27,0.0,Valid date,Paid
+S1088,Term 2,6000,6000.0,2026-12-27,0.0,Future dated - Verify,Paid
+S1089,Term 1,6000,0.0,,6000.0,No payment date,Unpaid
+S1089,Term 2,6000,6000.0,2026-12-15,0.0,Future dated - Verify,Paid
+S1090,Term 1,5000,5000.0,2026-09-01,0.0,Valid date,Paid
+S1090,Term 2,5000,5000.0,2026-12-09,0.0,Future dated - Verify,Paid
+S1091,Term 1,6000,6000.0,2026-09-03,0.0,Valid date,Paid
+S1091,Term 2,6000,6000.0,2026-12-19,0.0,Future dated - Verify,Paid
+S1092,Term 1,6000,2060.0,2026-10-25,3940.0,Valid date,Partially Paid
+S1092,Term 2,6000,6000.0,2026-12-11,0.0,Future dated - Verify,Paid
+S1093,Term 1,5000,5000.0,2026-09-20,0.0,Valid date,Paid
+S1093,Term 2,5000,5000.0,2026-12-14,0.0,Future dated - Verify,Paid
+S1094,Term 1,6000,6000.0,2026-09-16,0.0,Valid date,Paid
+S1094,Term 2,6000,0.0,,6000.0,No payment date,Unpaid
+S1095,Term 1,5000,5000.0,2026-09-26,0.0,Valid date,Paid
+S1095,Term 2,5000,5000.0,2026-12-29,0.0,Future dated - Verify,Paid
+S1096,Term 1,4500,4500.0,2026-09-17,0.0,Valid date,Paid
+S1096,Term 2,4500,4500.0,2026-12-02,0.0,Future dated - Verify,Paid
+S1097,Term 1,5500,5500.0,2026-09-22,0.0,Valid date,Paid
+S1097,Term 2,5500,5500.0,2026-12-28,0.0,Future dated - Verify,Paid
+S1098,Term 1,5500,5500.0,2026-09-17,0.0,Valid date,Paid
+S1098,Term 2,5500,3510.0,2026-12-29,1990.0,Future dated - Verify,Partially Paid
+S1099,Term 1,4500,4500.0,2026-09-25,0.0,Valid date,Paid
+S1099,Term 2,4500,4500.0,2026-12-15,0.0,Future dated - Verify,Paid
+S1100,Term 1,6000,2210.0,2026-09-20,3790.0,Valid date,Partially Paid
+S1100,Term 2,6000,6000.0,2026-12-08,0.0,Future dated - Verify,Paid
+S1101,Term 1,4500,4500.0,2026-09-06,0.0,Valid date,Paid
+S1101,Term 2,4500,4500.0,2026-12-21,0.0,Future dated - Verify,Paid
+S1102,Term 1,6000,6000.0,2026-09-14,0.0,Valid date,Paid
+S1102,Term 2,6000,6000.0,2026-12-21,0.0,Future dated - Verify,Paid
+S1103,Term 1,4500,0.0,,4500.0,No payment date,Unpaid
+S1103,Term 2,4500,0.0,,4500.0,No payment date,Unpaid
+S1104,Term 1,6000,6000.0,2026-09-28,0.0,Valid date,Paid
+S1104,Term 2,6000,0.0,,6000.0,No payment date,Unpaid
+S1105,Term 1,6000,6000.0,2026-09-21,0.0,Valid date,Paid
+S1105,Term 2,6000,6000.0,2026-12-05,0.0,Future dated - Verify,Paid
+S1106,Term 1,6000,6000.0,2026-09-08,0.0,Valid date,Paid
+S1106,Term 2,6000,6000.0,2026-12-18,0.0,Future dated - Verify,Paid
+S1107,Term 1,5500,5500.0,2026-09-28,0.0,Valid date,Paid
+S1107,Term 2,5500,3640.0,2027-01-20,1860.0,Future dated - Verify,Partially Paid
+S1108,Term 1,5000,5000.0,2026-09-04,0.0,Valid date,Paid
+S1108,Term 2,5000,5000.0,2026-12-01,0.0,Future dated - Verify,Paid
+S1109,Term 1,5500,3910.0,2026-09-26,1590.0,Valid date,Partially Paid
+S1109,Term 2,5500,0.0,,5500.0,No payment date,Unpaid
+S1110,Term 1,4500,3090.0,2026-09-24,1410.0,Valid date,Partially Paid
+S1110,Term 2,4500,4500.0,2026-12-02,0.0,Future dated - Verify,Paid
+S1111,Term 1,6000,6000.0,2026-09-06,0.0,Valid date,Paid
+S1111,Term 2,6000,6000.0,2026-12-26,0.0,Future dated - Verify,Paid
+S1112,Term 1,5000,5000.0,2026-09-18,0.0,Valid date,Paid
+S1112,Term 2,5000,0.0,,5000.0,No payment date,Unpaid
+S1113,Term 1,5000,5000.0,2026-09-04,0.0,Valid date,Paid
+S1113,Term 2,5000,5000.0,2026-12-12,0.0,Future dated - Verify,Paid
+S1114,Term 1,5000,5000.0,2026-09-19,0.0,Valid date,Paid
+S1114,Term 2,5000,5000.0,2026-12-01,0.0,Future dated - Verify,Paid
+S1115,Term 1,5000,5000.0,2026-09-25,0.0,Valid date,Paid
+S1115,Term 2,5000,5000.0,2026-12-02,0.0,Future dated - Verify,Paid
+S1116,Term 1,4500,0.0,,4500.0,No payment date,Unpaid
+S1116,Term 2,4500,4500.0,2026-12-10,0.0,Future dated - Verify,Paid
+S1117,Term 1,4500,0.0,,4500.0,No payment date,Unpaid
+S1117,Term 2,4500,4500.0,2026-12-25,0.0,Future dated - Verify,Paid
+S1118,Term 1,4500,4500.0,2026-09-17,0.0,Valid date,Paid
+S1118,Term 2,4500,4500.0,2026-12-26,0.0,Future dated - Verify,Paid
+S1119,Term 1,4500,4500.0,2026-09-18,0.0,Valid date,Paid
+S1119,Term 2,4500,4500.0,2026-12-04,0.0,Future dated - Verify,Paid
+S1120,Term 1,5000,5000.0,2026-09-27,0.0,Valid date,Paid
+S1120,Term 2,5000,5000.0,2026-12-20,0.0,Future dated - Verify,Paid
+S1121,Term 1,5500,5500.0,2026-09-13,0.0,Valid date,Paid
+S1121,Term 2,5500,5500.0,2026-12-28,0.0,Future dated - Verify,Paid
+S1122,Term 1,5500,0.0,,5500.0,No payment date,Unpaid
+S1122,Term 2,5500,5500.0,2026-12-28,0.0,Future dated - Verify,Paid
+S1123,Term 1,5000,5000.0,2026-09-18,0.0,Valid date,Paid
+S1123,Term 2,5000,5000.0,2026-12-02,0.0,Future dated - Verify,Paid
+S1124,Term 1,6000,6000.0,2026-09-07,0.0,Valid date,Paid
+S1124,Term 2,6000,6000.0,2026-12-12,0.0,Future dated - Verify,Paid
+S1125,Term 1,5000,5000.0,2026-09-03,0.0,Valid date,Paid
+S1125,Term 2,5000,5000.0,2026-12-29,0.0,Future dated - Verify,Paid
+S1126,Term 1,4500,4500.0,2026-09-29,0.0,Valid date,Paid
+S1126,Term 2,4500,4500.0,2026-12-18,0.0,Future dated - Verify,Paid
+S1127,Term 1,6000,6000.0,2026-09-21,0.0,Valid date,Paid
+S1127,Term 2,6000,6000.0,2026-12-27,0.0,Future dated - Verify,Paid
+S1128,Term 1,5500,2380.0,2026-10-30,3120.0,Valid date,Partially Paid
+S1128,Term 2,5500,5500.0,2026-12-11,0.0,Future dated - Verify,Paid
+S1129,Term 1,5500,3460.0,2026-10-19,2040.0,Valid date,Partially Paid
+S1129,Term 2,5500,5500.0,2026-12-16,0.0,Future dated - Verify,Paid
+S1130,Term 1,5000,5000.0,2026-09-16,0.0,Valid date,Paid
+S1130,Term 2,5000,5000.0,2026-12-16,0.0,Future dated - Verify,Paid
+S1131,Term 1,5000,5000.0,2026-09-30,0.0,Valid date,Paid
+S1131,Term 2,5000,3630.0,2026-12-22,1370.0,Future dated - Verify,Partially Paid
+S1132,Term 1,4500,4500.0,2026-09-03,0.0,Valid date,Paid
+S1132,Term 2,4500,2600.0,2027-01-04,1900.0,Future dated - Verify,Partially Paid
+S1133,Term 1,5000,0.0,,5000.0,No payment date,Unpaid
+S1133,Term 2,5000,5000.0,2026-12-13,0.0,Future dated - Verify,Paid
+S1134,Term 1,6000,6000.0,2026-09-14,0.0,Valid date,Paid
+S1134,Term 2,6000,0.0,,6000.0,No payment date,Unpaid
+S1135,Term 1,5000,5000.0,2026-09-29,0.0,Valid date,Paid
+S1135,Term 2,5000,5000.0,2026-12-12,0.0,Future dated - Verify,Paid
+S1136,Term 1,5500,0.0,,5500.0,No payment date,Unpaid
+S1136,Term 2,5500,5500.0,2026-12-24,0.0,Future dated - Verify,Paid
+S1137,Term 1,4500,4500.0,2026-09-06,0.0,Valid date,Paid
+S1137,Term 2,4500,0.0,,4500.0,No payment date,Unpaid
+S1138,Term 1,5000,5000.0,2026-09-18,0.0,Valid date,Paid
+S1138,Term 2,5000,2250.0,2027-01-29,2750.0,Future dated - Verify,Partially Paid
+S1139,Term 1,5000,5000.0,2026-09-15,0.0,Valid date,Paid
+S1139,Term 2,5000,5000.0,2026-12-15,0.0,Future dated - Verify,Paid
+S1140,Term 1,6000,6000.0,2026-09-07,0.0,Valid date,Paid
+S1140,Term 2,6000,6000.0,2026-12-02,0.0,Future dated - Verify,Paid
+S1141,Term 1,4500,4500.0,2026-09-10,0.0,Valid date,Paid
+S1141,Term 2,4500,4500.0,2026-12-23,0.0,Future dated - Verify,Paid
+S1142,Term 1,4500,4500.0,2026-09-22,0.0,Valid date,Paid
+S1142,Term 2,4500,4500.0,2026-12-24,0.0,Future dated - Verify,Paid
+S1143,Term 1,5000,1600.0,2026-09-23,3400.0,Valid date,Partially Paid
+S1143,Term 2,5000,5000.0,2026-12-15,0.0,Future dated - Verify,Paid
+S1144,Term 1,6000,6000.0,2026-09-16,0.0,Valid date,Paid
+S1144,Term 2,6000,6000.0,2026-12-04,0.0,Future dated - Verify,Paid
+S1145,Term 1,6000,6000.0,2026-09-26,0.0,Valid date,Paid
+S1145,Term 2,6000,6000.0,2026-12-26,0.0,Future dated - Verify,Paid
+S1146,Term 1,4500,4500.0,2026-09-23,0.0,Valid date,Paid
+S1146,Term 2,4500,4500.0,2026-12-13,0.0,Future dated - Verify,Paid
+S1147,Term 1,4500,4500.0,2026-09-16,0.0,Valid date,Paid
+S1147,Term 2,4500,2840.0,2027-01-03,1660.0,Future dated - Verify,Partially Paid
+S1148,Term 1,6000,6000.0,2026-09-07,0.0,Valid date,Paid
+S1148,Term 2,6000,4070.0,2027-01-24,1930.0,Future dated - Verify,Partially Paid
+S1149,Term 1,4500,4500.0,2026-09-24,0.0,Valid date,Paid
+S1149,Term 2,4500,4500.0,2026-12-24,0.0,Future dated - Verify,Paid
+S1150,Term 1,6000,6000.0,2026-09-06,0.0,Valid date,Paid
+S1150,Term 2,6000,6000.0,2026-12-22,0.0,Future dated - Verify,Paid
+S1151,Term 1,4500,4500.0,2026-09-28,0.0,Valid date,Paid
+S1151,Term 2,4500,0.0,,4500.0,No payment date,Unpaid
+S1152,Term 1,6000,6000.0,2026-09-24,0.0,Valid date,Paid
+S1152,Term 2,6000,0.0,,6000.0,No payment date,Unpaid
+S1153,Term 1,5000,5000.0,2026-09-05,0.0,Valid date,Paid
+S1153,Term 2,5000,5000.0,2026-12-24,0.0,Future dated - Verify,Paid
+S1154,Term 1,5000,5000.0,2026-09-29,0.0,Valid date,Paid
+S1154,Term 2,5000,5000.0,2026-12-19,0.0,Future dated - Verify,Paid
+S1155,Term 1,5500,5500.0,2026-09-28,0.0,Valid date,Paid
+S1155,Term 2,5500,0.0,,5500.0,No payment date,Unpaid
+S1156,Term 1,4500,3330.0,2026-10-05,1170.0,Valid date,Partially Paid
+S1156,Term 2,4500,4500.0,2026-12-07,0.0,Future dated - Verify,Paid
+S1157,Term 1,5000,0.0,,5000.0,No payment date,Unpaid
+S1157,Term 2,5000,5000.0,2026-12-18,0.0,Future dated - Verify,Paid
+S1158,Term 1,5000,5000.0,2026-09-12,0.0,Valid date,Paid
+S1158,Term 2,5000,5000.0,2026-12-24,0.0,Future dated - Verify,Paid
+S1159,Term 1,6000,3290.0,2026-10-16,2710.0,Valid date,Partially Paid
+S1159,Term 2,6000,6000.0,2026-12-16,0.0,Future dated - Verify,Paid
+S1160,Term 1,6000,6000.0,2026-09-20,0.0,Valid date,Paid
+S1160,Term 2,6000,6000.0,2026-12-14,0.0,Future dated - Verify,Paid
+S1161,Term 1,5500,5500.0,2026-09-06,0.0,Valid date,Paid
+S1161,Term 2,5500,5500.0,2026-12-19,0.0,Future dated - Verify,Paid
+S1162,Term 1,5000,5000.0,2026-09-26,0.0,Valid date,Paid
+S1162,Term 2,5000,0.0,,5000.0,No payment date,Unpaid
+S1163,Term 1,5000,0.0,,5000.0,No payment date,Unpaid
+S1163,Term 2,5000,5000.0,2026-12-02,0.0,Future dated - Verify,Paid
+S1164,Term 1,5000,5000.0,2026-09-09,0.0,Valid date,Paid
+S1164,Term 2,5000,5000.0,2026-12-27,0.0,Future dated - Verify,Paid
+S1165,Term 1,6000,6000.0,2026-09-24,0.0,Valid date,Paid
+S1165,Term 2,6000,6000.0,2026-12-07,0.0,Future dated - Verify,Paid
+S1166,Term 1,5000,3880.0,2026-10-25,1120.0,Valid date,Partially Paid
+S1166,Term 2,5000,5000.0,2026-12-07,0.0,Future dated - Verify,Paid
+S1167,Term 1,4500,4500.0,2026-09-28,0.0,Valid date,Paid
+S1167,Term 2,4500,4500.0,2026-12-26,0.0,Future dated - Verify,Paid
+S1168,Term 1,5000,5000.0,2026-09-18,0.0,Valid date,Paid
+S1168,Term 2,5000,5000.0,2026-12-01,0.0,Future dated - Verify,Paid
+S1169,Term 1,4500,4500.0,2026-09-14,0.0,Valid date,Paid
+S1169,Term 2,4500,3310.0,2027-01-17,1190.0,Future dated - Verify,Partially Paid
+S1170,Term 1,4500,0.0,,4500.0,No payment date,Unpaid
+S1170,Term 2,4500,4500.0,2026-12-30,0.0,Future dated - Verify,Paid
+S1171,Term 1,4500,4500.0,2026-09-16,0.0,Valid date,Paid
+S1171,Term 2,4500,4500.0,2026-12-11,0.0,Future dated - Verify,Paid
+S1172,Term 1,6000,6000.0,2026-09-22,0.0,Valid date,Paid
+S1172,Term 2,6000,6000.0,2026-12-29,0.0,Future dated - Verify,Paid
+S1173,Term 1,6000,4800.0,2026-10-04,1200.0,Valid date,Partially Paid
+S1173,Term 2,6000,6000.0,2026-12-29,0.0,Future dated - Verify,Paid
+S1174,Term 1,5500,4020.0,2026-09-14,1480.0,Valid date,Partially Paid
+S1174,Term 2,5500,5500.0,2026-12-04,0.0,Future dated - Verify,Paid
+S1175,Term 1,5000,5000.0,2026-09-02,0.0,Valid date,Paid
+S1175,Term 2,5000,5000.0,2026-12-27,0.0,Future dated - Verify,Paid
+S1176,Term 1,6000,6000.0,2026-09-12,0.0,Valid date,Paid
+S1176,Term 2,6000,6000.0,2026-12-03,0.0,Future dated - Verify,Paid
+S1177,Term 1,4500,4500.0,2026-09-05,0.0,Valid date,Paid
+S1177,Term 2,4500,4500.0,2026-12-22,0.0,Future dated - Verify,Paid
+S1178,Term 1,6000,2490.0,2026-09-30,3510.0,Valid date,Partially Paid
+S1178,Term 2,6000,6000.0,2026-12-17,0.0,Future dated - Verify,Paid
+S1179,Term 1,5000,5000.0,2026-09-06,0.0,Valid date,Paid
+S1179,Term 2,5000,3340.0,2026-12-30,1660.0,Future dated - Verify,Partially Paid
+S1180,Term 1,6000,6000.0,2026-09-22,0.0,Valid date,Paid
+S1180,Term 2,6000,0.0,,6000.0,No payment date,Unpaid
+S1181,Term 1,4500,4500.0,2026-09-29,0.0,Valid date,Paid
+S1181,Term 2,4500,2370.0,2027-01-01,2130.0,Future dated - Verify,Partially Paid
+S1182,Term 1,5000,5000.0,2026-09-29,0.0,Valid date,Paid
+S1182,Term 2,5000,5000.0,2026-12-03,0.0,Future dated - Verify,Paid
+S1183,Term 1,5500,5500.0,2026-09-17,0.0,Valid date,Paid
+S1183,Term 2,5500,5500.0,2026-12-10,0.0,Future dated - Verify,Paid
+S1184,Term 1,5000,1680.0,2026-10-23,3320.0,Valid date,Partially Paid
+S1184,Term 2,5000,2820.0,2026-12-24,2180.0,Future dated - Verify,Partially Paid
+S1185,Term 1,5000,5000.0,2026-09-10,0.0,Valid date,Paid
+S1185,Term 2,5000,5000.0,2026-12-29,0.0,Future dated - Verify,Paid
+S1186,Term 1,4500,4500.0,2026-09-29,0.0,Valid date,Paid
+S1186,Term 2,4500,4500.0,2026-12-25,0.0,Future dated - Verify,Paid
+S1187,Term 1,5000,5000.0,2026-09-08,0.0,Valid date,Paid
+S1187,Term 2,5000,5000.0,2026-12-25,0.0,Future dated - Verify,Paid
+S1188,Term 1,4500,4500.0,2026-09-07,0.0,Valid date,Paid
+S1188,Term 2,4500,4500.0,2026-12-19,0.0,Future dated - Verify,Paid
+S1189,Term 1,5000,5000.0,2026-09-19,0.0,Valid date,Paid
+S1189,Term 2,5000,1680.0,2026-12-31,3320.0,Future dated - Verify,Partially Paid
+S1190,Term 1,5500,5500.0,2026-09-23,0.0,Valid date,Paid
+S1190,Term 2,5500,5500.0,2026-12-17,0.0,Future dated - Verify,Paid
+S1191,Term 1,5500,5500.0,2026-09-07,0.0,Valid date,Paid
+S1191,Term 2,5500,5500.0,2026-12-11,0.0,Future dated - Verify,Paid
+S1192,Term 1,5500,0.0,,5500.0,No payment date,Unpaid
+S1192,Term 2,5500,5500.0,2026-12-30,0.0,Future dated - Verify,Paid
+S1193,Term 1,5000,5000.0,2026-09-21,0.0,Valid date,Paid
+S1193,Term 2,5000,0.0,,5000.0,No payment date,Unpaid
+S1194,Term 1,6000,6000.0,2026-09-11,0.0,Valid date,Paid
+S1194,Term 2,6000,2160.0,2026-12-15,3840.0,Future dated - Verify,Partially Paid
+S1195,Term 1,4500,4500.0,2026-09-17,0.0,Valid date,Paid
+S1195,Term 2,4500,2400.0,2026-12-11,2100.0,Future dated - Verify,Partially Paid
+S1196,Term 1,5000,5000.0,2026-09-02,0.0,Valid date,Paid
+S1196,Term 2,5000,5000.0,2026-12-13,0.0,Future dated - Verify,Paid
+S1197,Term 1,4500,4500.0,2026-09-10,0.0,Valid date,Paid
+S1197,Term 2,4500,0.0,,4500.0,No payment date,Unpaid
+S1198,Term 1,5000,5000.0,2026-09-21,0.0,Valid date,Paid
+S1198,Term 2,5000,5000.0,2026-12-18,0.0,Future dated - Verify,Paid
+S1199,Term 1,6000,6000.0,2026-09-04,0.0,Valid date,Paid
+S1199,Term 2,6000,6000.0,2026-12-02,0.0,Future dated - Verify,Paid
+S1200,Term 1,5000,5000.0,2026-09-15,0.0,Valid date,Paid
+S1200,Term 2,5000,5000.0,2026-12-13,0.0,Future dated - Verify,Paid
+S1201,Term 1,6000,6000.0,2026-09-03,0.0,Valid date,Paid
+S1201,Term 2,6000,6000.0,2026-12-23,0.0,Future dated - Verify,Paid
+S1202,Term 1,5000,5000.0,2026-09-27,0.0,Valid date,Paid
+S1202,Term 2,5000,3850.0,2027-01-18,1150.0,Future dated - Verify,Partially Paid
+S1203,Term 1,5500,5500.0,2026-09-13,0.0,Valid date,Paid
+S1203,Term 2,5500,3610.0,2026-12-19,1890.0,Future dated - Verify,Partially Paid
+S1204,Term 1,5000,0.0,,5000.0,No payment date,Unpaid
+S1204,Term 2,5000,5000.0,2026-12-04,0.0,Future dated - Verify,Paid
+S1205,Term 1,4500,4500.0,2026-09-09,0.0,Valid date,Paid
+S1205,Term 2,4500,0.0,,4500.0,No payment date,Unpaid
+S1206,Term 1,6000,1990.0,2026-10-21,4010.0,Valid date,Partially Paid
+S1206,Term 2,6000,6000.0,2026-12-17,0.0,Future dated - Verify,Paid
+S1207,Term 1,6000,6000.0,2026-09-19,0.0,Valid date,Paid
+S1207,Term 2,6000,6000.0,2026-12-06,0.0,Future dated - Verify,Paid
+S1208,Term 1,4500,4500.0,2026-09-29,0.0,Valid date,Paid
+S1208,Term 2,4500,4500.0,2026-12-17,0.0,Future dated - Verify,Paid
+S1209,Term 1,6000,6000.0,2026-09-14,0.0,Valid date,Paid
+S1209,Term 2,6000,6000.0,2026-12-12,0.0,Future dated - Verify,Paid
+S1210,Term 1,4500,4500.0,2026-09-07,0.0,Valid date,Paid
+S1210,Term 2,4500,0.0,,4500.0,No payment date,Unpaid
+S1211,Term 1,6000,3450.0,2026-09-13,2550.0,Valid date,Partially Paid
+S1211,Term 2,6000,6000.0,2026-12-17,0.0,Future dated - Verify,Paid
+S1212,Term 1,6000,0.0,,6000.0,No payment date,Unpaid
+S1212,Term 2,6000,6000.0,2026-12-25,0.0,Future dated - Verify,Paid
+S1213,Term 1,5000,5000.0,2026-09-18,0.0,Valid date,Paid
+S1213,Term 2,5000,5000.0,2026-12-30,0.0,Future dated - Verify,Paid
+S1214,Term 1,6000,6000.0,2026-09-18,0.0,Valid date,Paid
+S1214,Term 2,6000,6000.0,2026-12-05,0.0,Future dated - Verify,Paid
+S1215,Term 1,4500,4500.0,2026-09-23,0.0,Valid date,Paid
+S1215,Term 2,4500,4500.0,2026-12-09,0.0,Future dated - Verify,Paid
+S1216,Term 1,4500,4500.0,2026-09-01,0.0,Valid date,Paid
+S1216,Term 2,4500,4500.0,2026-12-12,0.0,Future dated - Verify,Paid
+S1217,Term 1,4500,4500.0,2026-09-16,0.0,Valid date,Paid
+S1217,Term 2,4500,4500.0,2026-12-02,0.0,Future dated - Verify,Paid
+S1218,Term 1,5000,5000.0,2026-09-25,0.0,Valid date,Paid
+S1218,Term 2,5000,5000.0,2026-12-07,0.0,Future dated - Verify,Paid
+S1219,Term 1,6000,6000.0,2026-09-25,0.0,Valid date,Paid
+S1219,Term 2,6000,6000.0,2026-12-11,0.0,Future dated - Verify,Paid
+S1220,Term 1,4500,4500.0,2026-09-26,0.0,Valid date,Paid
+S1220,Term 2,4500,4500.0,2026-12-29,0.0,Future dated - Verify,Paid
+S1221,Term 1,5000,0.0,,5000.0,No payment date,Unpaid
+S1221,Term 2,5000,5000.0,2026-12-03,0.0,Future dated - Verify,Paid
+S1222,Term 1,5500,3800.0,2026-09-23,1700.0,Valid date,Partially Paid
+S1222,Term 2,5500,5500.0,2026-12-28,0.0,Future dated - Verify,Paid
+S1223,Term 1,4500,4500.0,2026-09-29,0.0,Valid date,Paid
+S1223,Term 2,4500,4500.0,2026-12-19,0.0,Future dated - Verify,Paid
+S1224,Term 1,6000,6000.0,2026-09-30,0.0,Valid date,Paid
+S1224,Term 2,6000,6000.0,2026-12-25,0.0,Future dated - Verify,Paid
+S1225,Term 1,5000,2550.0,2026-09-28,2450.0,Valid date,Partially Paid
+S1225,Term 2,5000,5000.0,2026-12-12,0.0,Future dated - Verify,Paid
+S1226,Term 1,6000,6000.0,2026-09-30,0.0,Valid date,Paid
+S1226,Term 2,6000,6000.0,2026-12-28,0.0,Future dated - Verify,Paid
+S1227,Term 1,5500,3430.0,2026-09-18,2070.0,Valid date,Partially Paid
+S1227,Term 2,5500,5500.0,2026-12-21,0.0,Future dated - Verify,Paid
+S1228,Term 1,5000,5000.0,2026-09-10,0.0,Valid date,Paid
+S1228,Term 2,5000,5000.0,2026-12-10,0.0,Future dated - Verify,Paid
+S1229,Term 1,4500,4500.0,2026-09-23,0.0,Valid date,Paid
+S1229,Term 2,4500,0.0,,4500.0,No payment date,Unpaid
+S1230,Term 1,5000,5000.0,2026-09-18,0.0,Valid date,Paid
+S1230,Term 2,5000,5000.0,2026-12-11,0.0,Future dated - Verify,Paid
+S1231,Term 1,6000,6000.0,2026-09-24,0.0,Valid date,Paid
+S1231,Term 2,6000,6000.0,2026-12-17,0.0,Future dated - Verify,Paid
+S1232,Term 1,4500,4500.0,2026-09-13,0.0,Valid date,Paid
+S1232,Term 2,4500,4500.0,2026-12-24,0.0,Future dated - Verify,Paid
+S1233,Term 1,6000,0.0,,6000.0,No payment date,Unpaid
+S1233,Term 2,6000,6000.0,2026-12-23,0.0,Future dated - Verify,Paid
+S1234,Term 1,5000,5000.0,2026-09-01,0.0,Valid date,Paid
+S1234,Term 2,5000,5000.0,2026-12-08,0.0,Future dated - Verify,Paid
+S1235,Term 1,6000,6000.0,2026-09-28,0.0,Valid date,Paid
+S1235,Term 2,6000,6000.0,2026-12-06,0.0,Future dated - Verify,Paid
+S1236,Term 1,5500,5500.0,2026-09-10,0.0,Valid date,Paid
+S1236,Term 2,5500,0.0,,5500.0,No payment date,Unpaid
+S1237,Term 1,5000,5000.0,2026-09-29,0.0,Valid date,Paid
+S1237,Term 2,5000,5000.0,2026-12-23,0.0,Future dated - Verify,Paid
+S1238,Term 1,5000,5000.0,2026-09-24,0.0,Valid date,Paid
+S1238,Term 2,5000,5000.0,2026-12-26,0.0,Future dated - Verify,Paid
+S1239,Term 1,5500,5500.0,2026-09-14,0.0,Valid date,Paid
+S1239,Term 2,5500,5500.0,2026-12-05,0.0,Future dated - Verify,Paid
+S1240,Term 1,4500,0.0,,4500.0,No payment date,Unpaid
+S1240,Term 2,4500,4500.0,2026-12-05,0.0,Future dated - Verify,Paid
+S1241,Term 1,5500,5500.0,2026-09-29,0.0,Valid date,Paid
+S1241,Term 2,5500,5500.0,2026-12-06,0.0,Future dated - Verify,Paid
+S1242,Term 1,4500,4500.0,2026-09-08,0.0,Valid date,Paid
+S1242,Term 2,4500,4500.0,2026-12-30,0.0,Future dated - Verify,Paid
+S1243,Term 1,5500,5500.0,2026-09-25,0.0,Valid date,Paid
+S1243,Term 2,5500,5500.0,2026-12-05,0.0,Future dated - Verify,Paid
+S1244,Term 1,5500,5500.0,2026-09-08,0.0,Valid date,Paid
+S1244,Term 2,5500,5500.0,2026-12-27,0.0,Future dated - Verify,Paid
+S1245,Term 1,4500,4500.0,2026-09-01,0.0,Valid date,Paid
+S1245,Term 2,4500,4500.0,2026-12-03,0.0,Future dated - Verify,Paid
+S1246,Term 1,6000,4220.0,2026-10-21,1780.0,Valid date,Partially Paid
+S1246,Term 2,6000,0.0,,6000.0,No payment date,Unpaid
+S1247,Term 1,5000,5000.0,2026-09-26,0.0,Valid date,Paid
+S1247,Term 2,5000,5000.0,2026-12-04,0.0,Future dated - Verify,Paid
+S1248,Term 1,6000,6000.0,2026-09-05,0.0,Valid date,Paid
+S1248,Term 2,6000,3230.0,2027-01-16,2770.0,Future dated - Verify,Partially Paid
+S1249,Term 1,4500,2690.0,2026-10-06,1810.0,Valid date,Partially Paid
+S1249,Term 2,4500,4500.0,2026-12-28,0.0,Future dated - Verify,Paid
+S1250,Term 1,4500,2200.0,2026-09-29,2300.0,Valid date,Partially Paid
+S1250,Term 2,4500,4500.0,2026-12-23,0.0,Future dated - Verify,Paid
+S1251,Term 1,5000,5000.0,2026-09-11,0.0,Valid date,Paid
+S1251,Term 2,5000,0.0,,5000.0,No payment date,Unpaid
+S1252,Term 1,4500,4500.0,2026-09-20,0.0,Valid date,Paid
+S1252,Term 2,4500,1760.0,2027-01-27,2740.0,Future dated - Verify,Partially Paid
+S1253,Term 1,5000,5000.0,2026-09-28,0.0,Valid date,Paid
+S1253,Term 2,5000,5000.0,2026-12-09,0.0,Future dated - Verify,Paid
+S1254,Term 1,5500,5500.0,2026-09-12,0.0,Valid date,Paid
+S1254,Term 2,5500,5500.0,2026-12-21,0.0,Future dated - Verify,Paid
+S1255,Term 1,4500,4500.0,2026-09-14,0.0,Valid date,Paid
+S1255,Term 2,4500,1460.0,2027-01-26,3040.0,Future dated - Verify,Partially Paid
+S1256,Term 1,5500,0.0,,5500.0,No payment date,Unpaid
+S1256,Term 2,5500,5500.0,2026-12-20,0.0,Future dated - Verify,Paid
+S1257,Term 1,4500,4500.0,2026-09-06,0.0,Valid date,Paid
+S1257,Term 2,4500,4500.0,2026-12-05,0.0,Future dated - Verify,Paid
+S1258,Term 1,4500,4500.0,2026-09-23,0.0,Valid date,Paid
+S1258,Term 2,4500,0.0,,4500.0,No payment date,Unpaid
+S1259,Term 1,5500,5500.0,2026-09-07,0.0,Valid date,Paid
+S1259,Term 2,5500,3220.0,2027-01-07,2280.0,Future dated - Verify,Partially Paid
+S1260,Term 1,6000,6000.0,2026-09-20,0.0,Valid date,Paid
+S1260,Term 2,6000,4770.0,2027-01-04,1230.0,Future dated - Verify,Partially Paid
+S1261,Term 1,4500,4500.0,2026-09-26,0.0,Valid date,Paid
+S1261,Term 2,4500,4500.0,2026-12-25,0.0,Future dated - Verify,Paid
+S1262,Term 1,5000,5000.0,2026-09-09,0.0,Valid date,Paid
+S1262,Term 2,5000,5000.0,2026-12-19,0.0,Future dated - Verify,Paid
+S1263,Term 1,6000,0.0,,6000.0,No payment date,Unpaid
+S1263,Term 2,6000,6000.0,2026-12-21,0.0,Future dated - Verify,Paid
+S1264,Term 1,6000,6000.0,2026-09-03,0.0,Valid date,Paid
+S1264,Term 2,6000,6000.0,2026-12-24,0.0,Future dated - Verify,Paid
+S1265,Term 1,5500,5500.0,2026-09-07,0.0,Valid date,Paid
+S1265,Term 2,5500,5500.0,2026-12-27,0.0,Future dated - Verify,Paid
+S1266,Term 1,5000,5000.0,2026-09-17,0.0,Valid date,Paid
+S1266,Term 2,5000,5000.0,2026-12-02,0.0,Future dated - Verify,Paid
+S1267,Term 1,5000,5000.0,2026-09-25,0.0,Valid date,Paid
+S1267,Term 2,5000,5000.0,2026-12-09,0.0,Future dated - Verify,Paid
+S1268,Term 1,5500,3110.0,2026-09-29,2390.0,Valid date,Partially Paid
+S1268,Term 2,5500,4380.0,2027-01-28,1120.0,Future dated - Verify,Partially Paid
+S1269,Term 1,5500,5500.0,2026-09-30,0.0,Valid date,Paid
+S1269,Term 2,5500,2820.0,2026-12-14,2680.0,Future dated - Verify,Partially Paid
+S1270,Term 1,5000,5000.0,2026-09-16,0.0,Valid date,Paid
+S1270,Term 2,5000,0.0,,5000.0,No payment date,Unpaid
+S1271,Term 1,4500,4500.0,2026-09-15,0.0,Valid date,Paid
+S1271,Term 2,4500,4500.0,2026-12-26,0.0,Future dated - Verify,Paid
+S1272,Term 1,4500,2950.0,2026-09-28,1550.0,Valid date,Partially Paid
+S1272,Term 2,4500,4500.0,2026-12-14,0.0,Future dated - Verify,Paid
+S1273,Term 1,6000,6000.0,2026-09-19,0.0,Valid date,Paid
+S1273,Term 2,6000,6000.0,2026-12-14,0.0,Future dated - Verify,Paid
+S1274,Term 1,5000,5000.0,2026-09-22,0.0,Valid date,Paid
+S1274,Term 2,5000,5000.0,2026-12-05,0.0,Future dated - Verify,Paid
+S1275,Term 1,5000,5000.0,2026-09-07,0.0,Valid date,Paid
+S1275,Term 2,5000,5000.0,2026-12-12,0.0,Future dated - Verify,Paid
+S1276,Term 1,5000,5000.0,2026-09-19,0.0,Valid date,Paid
+S1276,Term 2,5000,5000.0,2026-12-03,0.0,Future dated - Verify,Paid
+S1277,Term 1,6000,6000.0,2026-09-09,0.0,Valid date,Paid
+S1277,Term 2,6000,3800.0,2027-01-08,2200.0,Future dated - Verify,Partially Paid
+S1278,Term 1,4500,4500.0,2026-09-15,0.0,Valid date,Paid
+S1278,Term 2,4500,4500.0,2026-12-17,0.0,Future dated - Verify,Paid
+S1279,Term 1,4500,4500.0,2026-09-02,0.0,Valid date,Paid
+S1279,Term 2,4500,4500.0,2026-12-28,0.0,Future dated - Verify,Paid
+S1280,Term 1,4500,4500.0,2026-09-19,0.0,Valid date,Paid
+S1280,Term 2,4500,3030.0,2027-01-07,1470.0,Future dated - Verify,Partially Paid
+S1281,Term 1,5000,0.0,,5000.0,No payment date,Unpaid
+S1281,Term 2,5000,0.0,,5000.0,No payment date,Unpaid
+S1282,Term 1,5500,5500.0,2026-09-28,0.0,Valid date,Paid
+S1282,Term 2,5500,5500.0,2026-12-29,0.0,Future dated - Verify,Paid
+S1283,Term 1,5000,5000.0,2026-09-23,0.0,Valid date,Paid
+S1283,Term 2,5000,5000.0,2026-12-01,0.0,Future dated - Verify,Paid
+S1284,Term 1,5000,5000.0,2026-09-17,0.0,Valid date,Paid
+S1284,Term 2,5000,5000.0,2026-12-04,0.0,Future dated - Verify,Paid
+S1285,Term 1,6000,6000.0,2026-09-14,0.0,Valid date,Paid
+S1285,Term 2,6000,6000.0,2026-12-10,0.0,Future dated - Verify,Paid
+S1286,Term 1,4500,0.0,,4500.0,No payment date,Unpaid
+S1286,Term 2,4500,4500.0,2026-12-09,0.0,Future dated - Verify,Paid
+S1287,Term 1,5500,5500.0,2026-09-03,0.0,Valid date,Paid
+S1287,Term 2,5500,5500.0,2026-12-19,0.0,Future dated - Verify,Paid
+S1288,Term 1,5000,5000.0,2026-09-04,0.0,Valid date,Paid
+S1288,Term 2,5000,5000.0,2026-12-24,0.0,Future dated - Verify,Paid
+S1289,Term 1,5000,5000.0,2026-09-23,0.0,Valid date,Paid
+S1289,Term 2,5000,5000.0,2026-12-16,0.0,Future dated - Verify,Paid
+S1290,Term 1,6000,6000.0,2026-09-18,0.0,Valid date,Paid
+S1290,Term 2,6000,6000.0,2026-12-12,0.0,Future dated - Verify,Paid
+S1291,Term 1,4500,4500.0,2026-09-17,0.0,Valid date,Paid
+S1291,Term 2,4500,4500.0,2026-12-14,0.0,Future dated - Verify,Paid
+S1292,Term 1,6000,6000.0,2026-09-13,0.0,Valid date,Paid
+S1292,Term 2,6000,0.0,,6000.0,No payment date,Unpaid
+S1293,Term 1,5000,5000.0,2026-09-06,0.0,Valid date,Paid
+S1293,Term 2,5000,5000.0,2026-12-25,0.0,Future dated - Verify,Paid
+S1294,Term 1,5000,0.0,,5000.0,No payment date,Unpaid
+S1294,Term 2,5000,0.0,,5000.0,No payment date,Unpaid
+S1295,Term 1,5000,5000.0,2026-09-19,0.0,Valid date,Paid
+S1295,Term 2,5000,5000.0,2026-12-29,0.0,Future dated - Verify,Paid
+S1296,Term 1,6000,3400.0,2026-09-13,2600.0,Valid date,Partially Paid
+S1296,Term 2,6000,6000.0,2026-12-24,0.0,Future dated - Verify,Paid
+S1297,Term 1,5000,5000.0,2026-09-09,0.0,Valid date,Paid
+S1297,Term 2,5000,5000.0,2026-12-10,0.0,Future dated - Verify,Paid
+S1298,Term 1,4500,4500.0,2026-09-18,0.0,Valid date,Paid
+S1298,Term 2,4500,4500.0,2026-12-06,0.0,Future dated - Verify,Paid
+S1299,Term 1,4500,4500.0,2026-09-28,0.0,Valid date,Paid
+S1299,Term 2,4500,4500.0,2026-12-14,0.0,Future dated - Verify,Paid
+S1300,Term 1,5000,5000.0,2026-09-15,0.0,Valid date,Paid
+S1300,Term 2,5000,5000.0,2026-12-20,0.0,Future dated - Verify,Paid
+S1301,Term 1,6000,6000.0,2026-09-02,0.0,Valid date,Paid
+S1301,Term 2,6000,6000.0,2026-12-14,0.0,Future dated - Verify,Paid
+S1302,Term 1,4500,4500.0,2026-09-29,0.0,Valid date,Paid
+S1302,Term 2,4500,4500.0,2026-12-12,0.0,Future dated - Verify,Paid
+S1303,Term 1,6000,6000.0,2026-09-16,0.0,Valid date,Paid
+S1303,Term 2,6000,6000.0,2026-12-23,0.0,Future dated - Verify,Paid
+S1304,Term 1,5000,5000.0,2026-09-01,0.0,Valid date,Paid
+S1304,Term 2,5000,5000.0,2026-12-15,0.0,Future dated - Verify,Paid
+S1305,Term 1,4500,4500.0,2026-09-28,0.0,Valid date,Paid
+S1305,Term 2,4500,4500.0,2026-12-03,0.0,Future dated - Verify,Paid
+S1306,Term 1,5000,0.0,,5000.0,No payment date,Unpaid
+S1306,Term 2,5000,5000.0,2026-12-26,0.0,Future dated - Verify,Paid
+S1307,Term 1,5000,5000.0,2026-09-18,0.0,Valid date,Paid
+S1307,Term 2,5000,5000.0,2026-12-11,0.0,Future dated - Verify,Paid
+S1308,Term 1,5000,5000.0,2026-09-30,0.0,Valid date,Paid
+S1308,Term 2,5000,5000.0,2026-12-16,0.0,Future dated - Verify,Paid
+S1309,Term 1,4500,4500.0,2026-09-03,0.0,Valid date,Paid
+S1309,Term 2,4500,1700.0,2027-01-01,2800.0,Future dated - Verify,Partially Paid
+S1310,Term 1,5500,0.0,,5500.0,No payment date,Unpaid
+S1310,Term 2,5500,5500.0,2026-12-07,0.0,Future dated - Verify,Paid
+S1311,Term 1,5500,5500.0,2026-09-13,0.0,Valid date,Paid
+S1311,Term 2,5500,1990.0,2027-01-20,3510.0,Future dated - Verify,Partially Paid
+S1312,Term 1,4500,0.0,,4500.0,No payment date,Unpaid
+S1312,Term 2,4500,4500.0,2026-12-11,0.0,Future dated - Verify,Paid
+S1313,Term 1,4500,4500.0,2026-09-26,0.0,Valid date,Paid
+S1313,Term 2,4500,4500.0,2026-12-24,0.0,Future dated - Verify,Paid
+S1314,Term 1,4500,0.0,,4500.0,No payment date,Unpaid
+S1314,Term 2,4500,4500.0,2026-12-26,0.0,Future dated - Verify,Paid
+S1315,Term 1,5500,5500.0,2026-09-06,0.0,Valid date,Paid
+S1315,Term 2,5500,2420.0,2027-01-11,3080.0,Future dated - Verify,Partially Paid
+S1316,Term 1,6000,0.0,,6000.0,No payment date,Unpaid
+S1316,Term 2,6000,6000.0,2026-12-17,0.0,Future dated - Verify,Paid
+S1317,Term 1,6000,6000.0,2026-09-27,0.0,Valid date,Paid
+S1317,Term 2,6000,6000.0,2026-12-26,0.0,Future dated - Verify,Paid
+S1318,Term 1,6000,6000.0,2026-09-24,0.0,Valid date,Paid
+S1318,Term 2,6000,6000.0,2026-12-02,0.0,Future dated - Verify,Paid
+S1319,Term 1,6000,6000.0,2026-09-18,0.0,Valid date,Paid
+S1319,Term 2,6000,6000.0,2026-12-07,0.0,Future dated - Verify,Paid
+S1320,Term 1,5000,0.0,,5000.0,No payment date,Unpaid
+S1320,Term 2,5000,5000.0,2026-12-28,0.0,Future dated - Verify,Paid
+S1321,Term 1,4500,2700.0,2026-09-16,1800.0,Valid date,Partially Paid
+S1321,Term 2,4500,0.0,,4500.0,No payment date,Unpaid
+S1322,Term 1,5500,5500.0,2026-09-30,0.0,Valid date,Paid
+S1322,Term 2,5500,5500.0,2026-12-18,0.0,Future dated - Verify,Paid
+S1323,Term 1,6000,6000.0,2026-09-20,0.0,Valid date,Paid
+S1323,Term 2,6000,6000.0,2026-12-05,0.0,Future dated - Verify,Paid
+S1324,Term 1,6000,6000.0,2026-09-19,0.0,Valid date,Paid
+S1324,Term 2,6000,6000.0,2026-12-05,0.0,Future dated - Verify,Paid
+S1325,Term 1,4500,4500.0,2026-09-13,0.0,Valid date,Paid
+S1325,Term 2,4500,4500.0,2026-12-02,0.0,Future dated - Verify,Paid
+S1326,Term 1,4500,4500.0,2026-09-17,0.0,Valid date,Paid
+S1326,Term 2,4500,4500.0,2026-12-13,0.0,Future dated - Verify,Paid
+S1327,Term 1,4500,4500.0,2026-09-21,0.0,Valid date,Paid
+S1327,Term 2,4500,4500.0,2026-12-18,0.0,Future dated - Verify,Paid
+S1328,Term 1,4500,4500.0,2026-09-08,0.0,Valid date,Paid
+S1328,Term 2,4500,4500.0,2026-12-29,0.0,Future dated - Verify,Paid
+S1329,Term 1,5000,5000.0,2026-09-13,0.0,Valid date,Paid
+S1329,Term 2,5000,2540.0,2027-01-22,2460.0,Future dated - Verify,Partially Paid
+S1330,Term 1,5000,5000.0,2026-09-07,0.0,Valid date,Paid
+S1330,Term 2,5000,1650.0,2026-12-27,3350.0,Future dated - Verify,Partially Paid
+S1331,Term 1,5000,5000.0,2026-09-15,0.0,Valid date,Paid
+S1331,Term 2,5000,5000.0,2026-12-22,0.0,Future dated - Verify,Paid
+S1332,Term 1,5000,5000.0,2026-09-22,0.0,Valid date,Paid
+S1332,Term 2,5000,5000.0,2026-12-13,0.0,Future dated - Verify,Paid
+S1333,Term 1,6000,2630.0,2026-09-15,3370.0,Valid date,Partially Paid
+S1333,Term 2,6000,3070.0,2026-12-13,2930.0,Future dated - Verify,Partially Paid
+S1334,Term 1,5000,5000.0,2026-09-26,0.0,Valid date,Paid
+S1334,Term 2,5000,5000.0,2026-12-09,0.0,Future dated - Verify,Paid
+S1335,Term 1,6000,6000.0,2026-09-11,0.0,Valid date,Paid
+S1335,Term 2,6000,2060.0,2027-01-06,3940.0,Future dated - Verify,Partially Paid
+S1336,Term 1,6000,6000.0,2026-09-30,0.0,Valid date,Paid
+S1336,Term 2,6000,6000.0,2026-12-05,0.0,Future dated - Verify,Paid
+S1337,Term 1,5000,2140.0,2026-09-12,2860.0,Valid date,Partially Paid
+S1337,Term 2,5000,5000.0,2026-12-25,0.0,Future dated - Verify,Paid
+S1338,Term 1,4500,4500.0,2026-09-20,0.0,Valid date,Paid
+S1338,Term 2,4500,4500.0,2026-12-30,0.0,Future dated - Verify,Paid
+S1339,Term 1,6000,6000.0,2026-09-26,0.0,Valid date,Paid
+S1339,Term 2,6000,6000.0,2026-12-16,0.0,Future dated - Verify,Paid
+S1340,Term 1,5500,5500.0,2026-09-04,0.0,Valid date,Paid
+S1340,Term 2,5500,5500.0,2026-12-28,0.0,Future dated - Verify,Paid
+S1341,Term 1,5000,5000.0,2026-09-27,0.0,Valid date,Paid
+S1341,Term 2,5000,2980.0,2027-01-17,2020.0,Future dated - Verify,Partially Paid
+S1342,Term 1,5500,5500.0,2026-09-23,0.0,Valid date,Paid
+S1342,Term 2,5500,5500.0,2026-12-29,0.0,Future dated - Verify,Paid
+S1343,Term 1,5000,5000.0,2026-09-27,0.0,Valid date,Paid
+S1343,Term 2,5000,2230.0,2027-01-17,2770.0,Future dated - Verify,Partially Paid
+S1344,Term 1,6000,6000.0,2026-09-28,0.0,Valid date,Paid
+S1344,Term 2,6000,6000.0,2026-12-05,0.0,Future dated - Verify,Paid
+S1345,Term 1,4500,4500.0,2026-09-07,0.0,Valid date,Paid
+S1345,Term 2,4500,1980.0,2027-01-16,2520.0,Future dated - Verify,Partially Paid
+S1346,Term 1,6000,6000.0,2026-09-23,0.0,Valid date,Paid
+S1346,Term 2,6000,0.0,,6000.0,No payment date,Unpaid
+S1347,Term 1,6000,6000.0,2026-09-27,0.0,Valid date,Paid
+S1347,Term 2,6000,3130.0,2026-12-20,2870.0,Future dated - Verify,Partially Paid
+S1348,Term 1,4500,4500.0,2026-09-03,0.0,Valid date,Paid
+S1348,Term 2,4500,4500.0,2026-12-13,0.0,Future dated - Verify,Paid
+S1349,Term 1,4500,4500.0,2026-09-05,0.0,Valid date,Paid
+S1349,Term 2,4500,4500.0,2026-12-19,0.0,Future dated - Verify,Paid
+S1350,Term 1,5000,5000.0,2026-09-18,0.0,Valid date,Paid
+S1350,Term 2,5000,5000.0,2026-12-09,0.0,Future dated - Verify,Paid
+S1351,Term 1,4500,3450.0,2026-10-05,1050.0,Valid date,Partially Paid
+S1351,Term 2,4500,4500.0,2026-12-19,0.0,Future dated - Verify,Paid
+S1352,Term 1,5000,5000.0,2026-09-04,0.0,Valid date,Paid
+S1352,Term 2,5000,5000.0,2026-12-07,0.0,Future dated - Verify,Paid
+S1353,Term 1,5000,5000.0,2026-09-22,0.0,Valid date,Paid
+S1353,Term 2,5000,5000.0,2026-12-12,0.0,Future dated - Verify,Paid
+S1354,Term 1,6000,0.0,,6000.0,No payment date,Unpaid
+S1354,Term 2,6000,6000.0,2026-12-05,0.0,Future dated - Verify,Paid
+S1355,Term 1,6000,6000.0,2026-09-15,0.0,Valid date,Paid
+S1355,Term 2,6000,0.0,,6000.0,No payment date,Unpaid
+S1356,Term 1,4500,4500.0,2026-09-05,0.0,Valid date,Paid
+S1356,Term 2,4500,4500.0,2026-12-29,0.0,Future dated - Verify,Paid
+S1357,Term 1,6000,6000.0,2026-09-07,0.0,Valid date,Paid
+S1357,Term 2,6000,6000.0,2026-12-05,0.0,Future dated - Verify,Paid
+S1358,Term 1,4500,4500.0,2026-09-05,0.0,Valid date,Paid
+S1358,Term 2,4500,4500.0,2026-12-20,0.0,Future dated - Verify,Paid
+S1359,Term 1,6000,6000.0,2026-09-26,0.0,Valid date,Paid
+S1359,Term 2,6000,6000.0,2026-12-11,0.0,Future dated - Verify,Paid
+S1360,Term 1,6000,6000.0,2026-09-22,0.0,Valid date,Paid
+S1360,Term 2,6000,6000.0,2026-12-14,0.0,Future dated - Verify,Paid
+S1361,Term 1,6000,6000.0,2026-09-04,0.0,Valid date,Paid
+S1361,Term 2,6000,6000.0,2026-12-04,0.0,Future dated - Verify,Paid
+S1362,Term 1,4500,0.0,,4500.0,No payment date,Unpaid
+S1362,Term 2,4500,4500.0,2026-12-04,0.0,Future dated - Verify,Paid
+S1363,Term 1,6000,6000.0,2026-09-06,0.0,Valid date,Paid
+S1363,Term 2,6000,6000.0,2026-12-29,0.0,Future dated - Verify,Paid
+S1364,Term 1,4500,0.0,,4500.0,No payment date,Unpaid
+S1364,Term 2,4500,4500.0,2026-12-13,0.0,Future dated - Verify,Paid
+S1365,Term 1,5000,0.0,,5000.0,No payment date,Unpaid
+S1365,Term 2,5000,5000.0,2026-12-04,0.0,Future dated - Verify,Paid
+S1366,Term 1,5000,2100.0,2026-10-25,2900.0,Valid date,Partially Paid
+S1366,Term 2,5000,5000.0,2026-12-29,0.0,Future dated - Verify,Paid
+S1367,Term 1,5000,3960.0,2026-10-15,1040.0,Valid date,Partially Paid
+S1367,Term 2,5000,5000.0,2026-12-06,0.0,Future dated - Verify,Paid
+S1368,Term 1,4500,4500.0,2026-09-05,0.0,Valid date,Paid
+S1368,Term 2,4500,4500.0,2026-12-03,0.0,Future dated - Verify,Paid
+S1369,Term 1,6000,2610.0,2026-10-29,3390.0,Valid date,Partially Paid
+S1369,Term 2,6000,0.0,,6000.0,No payment date,Unpaid
+S1370,Term 1,5000,5000.0,2026-09-07,0.0,Valid date,Paid
+S1370,Term 2,5000,5000.0,2026-12-06,0.0,Future dated - Verify,Paid
+S1371,Term 1,5500,5500.0,2026-09-23,0.0,Valid date,Paid
+S1371,Term 2,5500,0.0,,5500.0,No payment date,Unpaid
+S1372,Term 1,5000,0.0,,5000.0,No payment date,Unpaid
+S1372,Term 2,5000,5000.0,2026-12-21,0.0,Future dated - Verify,Paid
+S1373,Term 1,5000,5000.0,2026-09-06,0.0,Valid date,Paid
+S1373,Term 2,5000,5000.0,2026-12-18,0.0,Future dated - Verify,Paid
+S1374,Term 1,6000,6000.0,2026-09-22,0.0,Valid date,Paid
+S1374,Term 2,6000,6000.0,2026-12-30,0.0,Future dated - Verify,Paid
+S1375,Term 1,4500,0.0,,4500.0,No payment date,Unpaid
+S1375,Term 2,4500,0.0,,4500.0,No payment date,Unpaid
+S1376,Term 1,6000,6000.0,2026-09-22,0.0,Valid date,Paid
+S1376,Term 2,6000,6000.0,2026-12-20,0.0,Future dated - Verify,Paid
+S1377,Term 1,6000,6000.0,2026-09-29,0.0,Valid date,Paid
+S1377,Term 2,6000,6000.0,2026-12-20,0.0,Future dated - Verify,Paid
+S1378,Term 1,5000,5000.0,2026-09-27,0.0,Valid date,Paid
+S1378,Term 2,5000,5000.0,2026-12-20,0.0,Future dated - Verify,Paid
+S1379,Term 1,4500,4500.0,2026-09-05,0.0,Valid date,Paid
+S1379,Term 2,4500,1660.0,2027-01-01,2840.0,Future dated - Verify,Partially Paid
+S1380,Term 1,4500,4500.0,2026-09-05,0.0,Valid date,Paid
+S1380,Term 2,4500,4500.0,2026-12-14,0.0,Future dated - Verify,Paid
+S1381,Term 1,6000,6000.0,2026-09-09,0.0,Valid date,Paid
+S1381,Term 2,6000,6000.0,2026-12-21,0.0,Future dated - Verify,Paid
+S1382,Term 1,6000,6000.0,2026-09-15,0.0,Valid date,Paid
+S1382,Term 2,6000,0.0,,6000.0,No payment date,Unpaid
+S1383,Term 1,4500,4500.0,2026-09-22,0.0,Valid date,Paid
+S1383,Term 2,4500,4500.0,2026-12-05,0.0,Future dated - Verify,Paid
+S1384,Term 1,4500,4500.0,2026-09-23,0.0,Valid date,Paid
+S1384,Term 2,4500,1550.0,2027-01-02,2950.0,Future dated - Verify,Partially Paid
+S1385,Term 1,4500,4500.0,2026-09-23,0.0,Valid date,Paid
+S1385,Term 2,4500,4500.0,2026-12-26,0.0,Future dated - Verify,Paid
+S1386,Term 1,4500,4500.0,2026-09-04,0.0,Valid date,Paid
+S1386,Term 2,4500,0.0,,4500.0,No payment date,Unpaid
+S1387,Term 1,6000,6000.0,2026-09-18,0.0,Valid date,Paid
+S1387,Term 2,6000,6000.0,2026-12-29,0.0,Future dated - Verify,Paid
+S1388,Term 1,6000,6000.0,2026-09-10,0.0,Valid date,Paid
+S1388,Term 2,6000,6000.0,2026-12-03,0.0,Future dated - Verify,Paid
+S1389,Term 1,4500,4500.0,2026-09-06,0.0,Valid date,Paid
+S1389,Term 2,4500,4500.0,2026-12-05,0.0,Future dated - Verify,Paid
+S1390,Term 1,6000,6000.0,2026-09-06,0.0,Valid date,Paid
+S1390,Term 2,6000,6000.0,2026-12-14,0.0,Future dated - Verify,Paid
+S1391,Term 1,4500,0.0,,4500.0,No payment date,Unpaid
+S1391,Term 2,4500,4500.0,2026-12-17,0.0,Future dated - Verify,Paid
+S1392,Term 1,5000,3910.0,2026-09-30,1090.0,Valid date,Partially Paid
+S1392,Term 2,5000,2940.0,2027-01-26,2060.0,Future dated - Verify,Partially Paid
+S1393,Term 1,5500,5500.0,2026-09-18,0.0,Valid date,Paid
+S1393,Term 2,5500,5500.0,2026-12-06,0.0,Future dated - Verify,Paid
+S1394,Term 1,6000,6000.0,2026-09-12,0.0,Valid date,Paid
+S1394,Term 2,6000,6000.0,2026-12-15,0.0,Future dated - Verify,Paid
+S1395,Term 1,6000,6000.0,2026-09-16,0.0,Valid date,Paid
+S1395,Term 2,6000,6000.0,2026-12-24,0.0,Future dated - Verify,Paid
+S1396,Term 1,4500,4500.0,2026-09-26,0.0,Valid date,Paid
+S1396,Term 2,4500,4500.0,2026-12-15,0.0,Future dated - Verify,Paid
+S1397,Term 1,4500,4500.0,2026-09-15,0.0,Valid date,Paid
+S1397,Term 2,4500,4500.0,2026-12-04,0.0,Future dated - Verify,Paid
+S1398,Term 1,4500,4500.0,2026-09-21,0.0,Valid date,Paid
+S1398,Term 2,4500,4500.0,2026-12-08,0.0,Future dated - Verify,Paid
+S1399,Term 1,5000,5000.0,2026-09-11,0.0,Valid date,Paid
+S1399,Term 2,5000,5000.0,2026-12-13,0.0,Future dated - Verify,Paid
+S1400,Term 1,6000,6000.0,2026-09-14,0.0,Valid date,Paid
+S1400,Term 2,6000,6000.0,2026-12-05,0.0,Future dated - Verify,Paid
+S1401,Term 1,6000,6000.0,2026-09-29,0.0,Valid date,Paid
+S1401,Term 2,6000,6000.0,2026-12-01,0.0,Future dated - Verify,Paid
+S1402,Term 1,5000,5000.0,2026-09-18,0.0,Valid date,Paid
+S1402,Term 2,5000,5000.0,2026-12-17,0.0,Future dated - Verify,Paid
+S1403,Term 1,6000,6000.0,2026-09-13,0.0,Valid date,Paid
+S1403,Term 2,6000,0.0,,6000.0,No payment date,Unpaid
+S1404,Term 1,5000,5000.0,2026-09-26,0.0,Valid date,Paid
+S1404,Term 2,5000,3650.0,2027-01-09,1350.0,Future dated - Verify,Partially Paid
+S1405,Term 1,5000,5000.0,2026-09-03,0.0,Valid date,Paid
+S1405,Term 2,5000,5000.0,2026-12-18,0.0,Future dated - Verify,Paid
+S1406,Term 1,5000,5000.0,2026-09-26,0.0,Valid date,Paid
+S1406,Term 2,5000,5000.0,2026-12-04,0.0,Future dated - Verify,Paid
+S1407,Term 1,4500,0.0,,4500.0,No payment date,Unpaid
+S1407,Term 2,4500,4500.0,2026-12-26,0.0,Future dated - Verify,Paid
+S1408,Term 1,6000,6000.0,2026-09-07,0.0,Valid date,Paid
+S1408,Term 2,6000,6000.0,2026-12-09,0.0,Future dated - Verify,Paid
+S1409,Term 1,4500,4500.0,2026-09-25,0.0,Valid date,Paid
+S1409,Term 2,4500,4500.0,2026-12-05,0.0,Future dated - Verify,Paid
+S1410,Term 1,4500,4500.0,2026-09-06,0.0,Valid date,Paid
+S1410,Term 2,4500,4500.0,2026-12-16,0.0,Future dated - Verify,Paid
+S1411,Term 1,4500,4500.0,2026-09-08,0.0,Valid date,Paid
+S1411,Term 2,4500,4500.0,2026-12-01,0.0,Future dated - Verify,Paid
+S1412,Term 1,4500,4500.0,2026-09-22,0.0,Valid date,Paid
+S1412,Term 2,4500,4500.0,2026-12-11,0.0,Future dated - Verify,Paid
+S1413,Term 1,4500,4500.0,2026-09-17,0.0,Valid date,Paid
+S1413,Term 2,4500,4500.0,2026-12-07,0.0,Future dated - Verify,Paid
+S1414,Term 1,4500,4500.0,2026-09-13,0.0,Valid date,Paid
+S1414,Term 2,4500,4500.0,2026-12-11,0.0,Future dated - Verify,Paid
+S1415,Term 1,5500,5500.0,2026-09-29,0.0,Valid date,Paid
+S1415,Term 2,5500,5500.0,2026-12-09,0.0,Future dated - Verify,Paid
+S1416,Term 1,6000,6000.0,2026-09-15,0.0,Valid date,Paid
+S1416,Term 2,6000,6000.0,2026-12-28,0.0,Future dated - Verify,Paid
+S1417,Term 1,4500,4500.0,2026-09-20,0.0,Valid date,Paid
+S1417,Term 2,4500,2710.0,2027-01-13,1790.0,Future dated - Verify,Partially Paid
+S1418,Term 1,5000,5000.0,2026-09-29,0.0,Valid date,Paid
+S1418,Term 2,5000,5000.0,2026-12-01,0.0,Future dated - Verify,Paid
+S1419,Term 1,5000,5000.0,2026-09-14,0.0,Valid date,Paid
+S1419,Term 2,5000,5000.0,2026-12-22,0.0,Future dated - Verify,Paid
+S1420,Term 1,6000,6000.0,2026-09-26,0.0,Valid date,Paid
+S1420,Term 2,6000,6000.0,2026-12-03,0.0,Future dated - Verify,Paid
+S1421,Term 1,5500,1920.0,2026-10-02,3580.0,Valid date,Partially Paid
+S1421,Term 2,5500,5500.0,2026-12-27,0.0,Future dated - Verify,Paid
+S1422,Term 1,6000,6000.0,2026-09-04,0.0,Valid date,Paid
+S1422,Term 2,6000,6000.0,2026-12-23,0.0,Future dated - Verify,Paid
+S1423,Term 1,5500,0.0,,5500.0,No payment date,Unpaid
+S1423,Term 2,5500,0.0,,5500.0,No payment date,Unpaid
+S1424,Term 1,5000,3630.0,2026-10-25,1370.0,Valid date,Partially Paid
+S1424,Term 2,5000,0.0,,5000.0,No payment date,Unpaid
+S1425,Term 1,4500,4500.0,2026-09-08,0.0,Valid date,Paid
+S1425,Term 2,4500,4500.0,2026-12-16,0.0,Future dated - Verify,Paid
+S1426,Term 1,6000,6000.0,2026-09-06,0.0,Valid date,Paid
+S1426,Term 2,6000,0.0,,6000.0,No payment date,Unpaid
+S1427,Term 1,6000,6000.0,2026-09-19,0.0,Valid date,Paid
+S1427,Term 2,6000,6000.0,2026-12-22,0.0,Future dated - Verify,Paid
+S1428,Term 1,4500,4500.0,2026-09-23,0.0,Valid date,Paid
+S1428,Term 2,4500,4500.0,2026-12-01,0.0,Future dated - Verify,Paid
+S1429,Term 1,6000,6000.0,2026-09-12,0.0,Valid date,Paid
+S1429,Term 2,6000,4050.0,2026-12-15,1950.0,Future dated - Verify,Partially Paid
+S1430,Term 1,4500,4500.0,2026-09-15,0.0,Valid date,Paid
+S1430,Term 2,4500,4500.0,2026-12-23,0.0,Future dated - Verify,Paid
+S1431,Term 1,6000,6000.0,2026-09-24,0.0,Valid date,Paid
+S1431,Term 2,6000,6000.0,2026-12-12,0.0,Future dated - Verify,Paid
+S1432,Term 1,6000,6000.0,2026-09-27,0.0,Valid date,Paid
+S1432,Term 2,6000,3720.0,2026-12-18,2280.0,Future dated - Verify,Partially Paid
+S1433,Term 1,4500,4500.0,2026-09-15,0.0,Valid date,Paid
+S1433,Term 2,4500,4500.0,2026-12-13,0.0,Future dated - Verify,Paid
+S1434,Term 1,5000,2330.0,2026-09-12,2670.0,Valid date,Partially Paid
+S1434,Term 2,5000,5000.0,2026-12-21,0.0,Future dated - Verify,Paid
+S1435,Term 1,4500,4500.0,2026-09-25,0.0,Valid date,Paid
+S1435,Term 2,4500,4500.0,2026-12-15,0.0,Future dated - Verify,Paid
+S1436,Term 1,5000,5000.0,2026-09-08,0.0,Valid date,Paid
+S1436,Term 2,5000,5000.0,2026-12-27,0.0,Future dated - Verify,Paid
+S1437,Term 1,6000,6000.0,2026-09-20,0.0,Valid date,Paid
+S1437,Term 2,6000,0.0,,6000.0,No payment date,Unpaid
+S1438,Term 1,4500,0.0,,4500.0,No payment date,Unpaid
+S1438,Term 2,4500,4500.0,2026-12-21,0.0,Future dated - Verify,Paid
+S1439,Term 1,5000,5000.0,2026-09-03,0.0,Valid date,Paid
+S1439,Term 2,5000,2720.0,2027-01-09,2280.0,Future dated - Verify,Partially Paid
+S1440,Term 1,6000,6000.0,2026-09-01,0.0,Valid date,Paid
+S1440,Term 2,6000,4580.0,2027-01-21,1420.0,Future dated - Verify,Partially Paid
+S1441,Term 1,5000,5000.0,2026-09-24,0.0,Valid date,Paid
+S1441,Term 2,5000,0.0,,5000.0,No payment date,Unpaid
+S1442,Term 1,4500,1690.0,2026-09-15,2810.0,Valid date,Partially Paid
+S1442,Term 2,4500,1660.0,2026-12-14,2840.0,Future dated - Verify,Partially Paid
+S1443,Term 1,5000,5000.0,2026-09-12,0.0,Valid date,Paid
+S1443,Term 2,5000,5000.0,2026-12-30,0.0,Future dated - Verify,Paid
+S1444,Term 1,5000,0.0,,5000.0,No payment date,Unpaid
+S1444,Term 2,5000,0.0,,5000.0,No payment date,Unpaid
+S1445,Term 1,5500,5500.0,2026-09-04,0.0,Valid date,Paid
+S1445,Term 2,5500,5500.0,2026-12-26,0.0,Future dated - Verify,Paid
+S1446,Term 1,5000,5000.0,2026-09-23,0.0,Valid date,Paid
+S1446,Term 2,5000,3670.0,2027-01-27,1330.0,Future dated - Verify,Partially Paid
+S1447,Term 1,6000,3320.0,2026-10-15,2680.0,Valid date,Partially Paid
+S1447,Term 2,6000,6000.0,2026-12-04,0.0,Future dated - Verify,Paid
+S1448,Term 1,5000,5000.0,2026-09-16,0.0,Valid date,Paid
+S1448,Term 2,5000,5000.0,2026-12-06,0.0,Future dated - Verify,Paid
+S1449,Term 1,5000,5000.0,2026-09-21,0.0,Valid date,Paid
+S1449,Term 2,5000,5000.0,2026-12-28,0.0,Future dated - Verify,Paid
+S1450,Term 1,6000,6000.0,2026-09-06,0.0,Valid date,Paid
+S1450,Term 2,6000,3840.0,2027-01-26,2160.0,Future dated - Verify,Partially Paid
+S1451,Term 1,6000,6000.0,2026-09-06,0.0,Valid date,Paid
+S1451,Term 2,6000,6000.0,2026-12-01,0.0,Future dated - Verify,Paid
+S1452,Term 1,5000,5000.0,2026-09-04,0.0,Valid date,Paid
+S1452,Term 2,5000,5000.0,2026-12-25,0.0,Future dated - Verify,Paid
+S1453,Term 1,4500,3520.0,2026-09-22,980.0,Valid date,Partially Paid
+S1453,Term 2,4500,4500.0,2026-12-12,0.0,Future dated - Verify,Paid
+S1454,Term 1,5500,0.0,,5500.0,No payment date,Unpaid
+S1454,Term 2,5500,0.0,,5500.0,No payment date,Unpaid
+S1455,Term 1,5000,5000.0,2026-09-28,0.0,Valid date,Paid
+S1455,Term 2,5000,0.0,,5000.0,No payment date,Unpaid
+S1456,Term 1,4500,4500.0,2026-09-27,0.0,Valid date,Paid
+S1456,Term 2,4500,4500.0,2026-12-03,0.0,Future dated - Verify,Paid
+S1457,Term 1,5500,5500.0,2026-09-14,0.0,Valid date,Paid
+S1457,Term 2,5500,5500.0,2026-12-02,0.0,Future dated - Verify,Paid
+S1458,Term 1,6000,6000.0,2026-09-30,0.0,Valid date,Paid
+S1458,Term 2,6000,3220.0,2027-01-24,2780.0,Future dated - Verify,Partially Paid
+S1459,Term 1,4500,3560.0,2026-10-04,940.0,Valid date,Partially Paid
+S1459,Term 2,4500,4500.0,2026-12-16,0.0,Future dated - Verify,Paid
+S1460,Term 1,6000,6000.0,2026-09-26,0.0,Valid date,Paid
+S1460,Term 2,6000,6000.0,2026-12-05,0.0,Future dated - Verify,Paid
+S1461,Term 1,4500,4500.0,2026-09-21,0.0,Valid date,Paid
+S1461,Term 2,4500,4500.0,2026-12-17,0.0,Future dated - Verify,Paid
+S1462,Term 1,6000,6000.0,2026-09-07,0.0,Valid date,Paid
+S1462,Term 2,6000,6000.0,2026-12-30,0.0,Future dated - Verify,Paid
+S1463,Term 1,5000,5000.0,2026-09-29,0.0,Valid date,Paid
+S1463,Term 2,5000,5000.0,2026-12-12,0.0,Future dated - Verify,Paid
+S1464,Term 1,4500,4500.0,2026-09-05,0.0,Valid date,Paid
+S1464,Term 2,4500,4500.0,2026-12-09,0.0,Future dated - Verify,Paid
+S1465,Term 1,6000,6000.0,2026-09-30,0.0,Valid date,Paid
+S1465,Term 2,6000,0.0,,6000.0,No payment date,Unpaid
+S1466,Term 1,4500,4500.0,2026-09-07,0.0,Valid date,Paid
+S1466,Term 2,4500,2400.0,2026-12-20,2100.0,Future dated - Verify,Partially Paid
+S1467,Term 1,5500,5500.0,2026-09-01,0.0,Valid date,Paid
+S1467,Term 2,5500,5500.0,2026-12-26,0.0,Future dated - Verify,Paid
+S1468,Term 1,4500,4500.0,2026-09-13,0.0,Valid date,Paid
+S1468,Term 2,4500,2100.0,2027-01-28,2400.0,Future dated - Verify,Partially Paid
+S1469,Term 1,6000,6000.0,2026-09-03,0.0,Valid date,Paid
+S1469,Term 2,6000,6000.0,2026-12-21,0.0,Future dated - Verify,Paid
+S1470,Term 1,6000,6000.0,2026-09-28,0.0,Valid date,Paid
+S1470,Term 2,6000,6000.0,2026-12-23,0.0,Future dated - Verify,Paid
+S1471,Term 1,6000,4450.0,2026-09-12,1550.0,Valid date,Partially Paid
+S1471,Term 2,6000,6000.0,2026-12-21,0.0,Future dated - Verify,Paid
+S1472,Term 1,5000,0.0,,5000.0,No payment date,Unpaid
+S1472,Term 2,5000,5000.0,2026-12-11,0.0,Future dated - Verify,Paid
+S1473,Term 1,5000,5000.0,2026-09-04,0.0,Valid date,Paid
+S1473,Term 2,5000,3950.0,2026-12-14,1050.0,Future dated - Verify,Partially Paid
+S1474,Term 1,5500,5500.0,2026-09-04,0.0,Valid date,Paid
+S1474,Term 2,5500,5500.0,2026-12-26,0.0,Future dated - Verify,Paid
+S1475,Term 1,6000,6000.0,2026-09-15,0.0,Valid date,Paid
+S1475,Term 2,6000,6000.0,2026-12-09,0.0,Future dated - Verify,Paid
+S1476,Term 1,6000,6000.0,2026-09-04,0.0,Valid date,Paid
+S1476,Term 2,6000,6000.0,2026-12-18,0.0,Future dated - Verify,Paid
+S1477,Term 1,4500,0.0,,4500.0,No payment date,Unpaid
+S1477,Term 2,4500,4500.0,2026-12-30,0.0,Future dated - Verify,Paid
+S1478,Term 1,5500,5500.0,2026-09-04,0.0,Valid date,Paid
+S1478,Term 2,5500,5500.0,2026-12-19,0.0,Future dated - Verify,Paid
+S1479,Term 1,4500,4500.0,2026-09-30,0.0,Valid date,Paid
+S1479,Term 2,4500,4500.0,2026-12-24,0.0,Future dated - Verify,Paid
+S1480,Term 1,5000,0.0,,5000.0,No payment date,Unpaid
+S1480,Term 2,5000,5000.0,2026-12-30,0.0,Future dated - Verify,Paid
+S1481,Term 1,6000,6000.0,2026-09-27,0.0,Valid date,Paid
+S1481,Term 2,6000,6000.0,2026-12-01,0.0,Future dated - Verify,Paid
+S1482,Term 1,4500,4500.0,2026-09-07,0.0,Valid date,Paid
+S1482,Term 2,4500,4500.0,2026-12-04,0.0,Future dated - Verify,Paid
+S1483,Term 1,6000,6000.0,2026-09-04,0.0,Valid date,Paid
+S1483,Term 2,6000,6000.0,2026-12-07,0.0,Future dated - Verify,Paid
+S1484,Term 1,5000,3120.0,2026-10-12,1880.0,Valid date,Partially Paid
+S1484,Term 2,5000,5000.0,2026-12-15,0.0,Future dated - Verify,Paid
+S1485,Term 1,4500,4500.0,2026-09-09,0.0,Valid date,Paid
+S1485,Term 2,4500,0.0,,4500.0,No payment date,Unpaid
+S1486,Term 1,5000,5000.0,2026-09-27,0.0,Valid date,Paid
+S1486,Term 2,5000,0.0,,5000.0,No payment date,Unpaid
+S1487,Term 1,5000,5000.0,2026-09-21,0.0,Valid date,Paid
+S1487,Term 2,5000,5000.0,2026-12-23,0.0,Future dated - Verify,Paid
+S1488,Term 1,6000,6000.0,2026-09-09,0.0,Valid date,Paid
+S1488,Term 2,6000,6000.0,2026-12-02,0.0,Future dated - Verify,Paid
+S1489,Term 1,5500,5500.0,2026-09-28,0.0,Valid date,Paid
+S1489,Term 2,5500,5500.0,2026-12-17,0.0,Future dated - Verify,Paid
+S1490,Term 1,6000,6000.0,2026-09-19,0.0,Valid date,Paid
+S1490,Term 2,6000,6000.0,2026-12-12,0.0,Future dated - Verify,Paid
+S1491,Term 1,6000,6000.0,2026-09-06,0.0,Valid date,Paid
+S1491,Term 2,6000,4410.0,2027-01-12,1590.0,Future dated - Verify,Partially Paid
+S1492,Term 1,6000,6000.0,2026-09-25,0.0,Valid date,Paid
+S1492,Term 2,6000,4790.0,2027-01-29,1210.0,Future dated - Verify,Partially Paid
+S1493,Term 1,5500,1930.0,2026-10-17,3570.0,Valid date,Partially Paid
+S1493,Term 2,5500,5500.0,2026-12-03,0.0,Future dated - Verify,Paid
+S1494,Term 1,5000,5000.0,2026-09-05,0.0,Valid date,Paid
+S1494,Term 2,5000,2010.0,2027-01-11,2990.0,Future dated - Verify,Partially Paid
+S1495,Term 1,5000,0.0,,5000.0,No payment date,Unpaid
+S1495,Term 2,5000,5000.0,2026-12-21,0.0,Future dated - Verify,Paid
+S1496,Term 1,4500,4500.0,2026-09-11,0.0,Valid date,Paid
+S1496,Term 2,4500,2250.0,2027-01-09,2250.0,Future dated - Verify,Partially Paid
+S1497,Term 1,5000,5000.0,2026-09-20,0.0,Valid date,Paid
+S1497,Term 2,5000,5000.0,2026-12-24,0.0,Future dated - Verify,Paid
+S1498,Term 1,6000,0.0,,6000.0,No payment date,Unpaid
+S1498,Term 2,6000,6000.0,2026-12-24,0.0,Future dated - Verify,Paid
+S1499,Term 1,5000,5000.0,2026-09-25,0.0,Valid date,Paid
+S1499,Term 2,5000,5000.0,2026-12-30,0.0,Future dated - Verify,Paid
+S1500,Term 1,4500,4500.0,2026-09-18,0.0,Valid date,Paid
+S1500,Term 2,4500,0.0,,4500.0,No payment date,Unpaid
+S1501,Term 1,5500,5500.0,2026-09-21,0.0,Valid date,Paid
+S1501,Term 2,5500,5500.0,2026-12-20,0.0,Future dated - Verify,Paid
+S1502,Term 1,6000,6000.0,2026-09-20,0.0,Valid date,Paid
+S1502,Term 2,6000,0.0,,6000.0,No payment date,Unpaid
+S1503,Term 1,6000,6000.0,2026-09-24,0.0,Valid date,Paid
+S1503,Term 2,6000,2980.0,2026-12-20,3020.0,Future dated - Verify,Partially Paid
+S1504,Term 1,4500,4500.0,2026-09-05,0.0,Valid date,Paid
+S1504,Term 2,4500,4500.0,2026-12-15,0.0,Future dated - Verify,Paid
+S1505,Term 1,5000,5000.0,2026-09-01,0.0,Valid date,Paid
+S1505,Term 2,5000,5000.0,2026-12-14,0.0,Future dated - Verify,Paid
+S1506,Term 1,5000,5000.0,2026-09-20,0.0,Valid date,Paid
+S1506,Term 2,5000,5000.0,2026-12-09,0.0,Future dated - Verify,Paid
+S1507,Term 1,4500,4500.0,2026-09-22,0.0,Valid date,Paid
+S1507,Term 2,4500,4500.0,2026-12-11,0.0,Future dated - Verify,Paid
+S1508,Term 1,4500,4500.0,2026-09-22,0.0,Valid date,Paid
+S1508,Term 2,4500,4500.0,2026-12-19,0.0,Future dated - Verify,Paid
+S1509,Term 1,4500,1410.0,2026-10-28,3090.0,Valid date,Partially Paid
+S1509,Term 2,4500,2850.0,2027-01-05,1650.0,Future dated - Verify,Partially Paid
+S1510,Term 1,6000,6000.0,2026-09-23,0.0,Valid date,Paid
+S1510,Term 2,6000,0.0,,6000.0,No payment date,Unpaid
+S1511,Term 1,6000,2580.0,2026-10-16,3420.0,Valid date,Partially Paid
+S1511,Term 2,6000,2310.0,2027-01-11,3690.0,Future dated - Verify,Partially Paid
+S1512,Term 1,6000,6000.0,2026-09-12,0.0,Valid date,Paid
+S1512,Term 2,6000,6000.0,2026-12-29,0.0,Future dated - Verify,Paid
+S1513,Term 1,6000,0.0,,6000.0,No payment date,Unpaid
+S1513,Term 2,6000,6000.0,2026-12-06,0.0,Future dated - Verify,Paid
+S1514,Term 1,6000,6000.0,2026-09-24,0.0,Valid date,Paid
+S1514,Term 2,6000,6000.0,2026-12-27,0.0,Future dated - Verify,Paid
+S1515,Term 1,4500,4500.0,2026-09-20,0.0,Valid date,Paid
+S1515,Term 2,4500,0.0,,4500.0,No payment date,Unpaid
+S1516,Term 1,6000,6000.0,2026-09-06,0.0,Valid date,Paid
+S1516,Term 2,6000,6000.0,2026-12-04,0.0,Future dated - Verify,Paid
+S1517,Term 1,4500,4500.0,2026-09-18,0.0,Valid date,Paid
+S1517,Term 2,4500,3160.0,2027-01-04,1340.0,Future dated - Verify,Partially Paid
+S1518,Term 1,5000,5000.0,2026-09-03,0.0,Valid date,Paid
+S1518,Term 2,5000,5000.0,2026-12-19,0.0,Future dated - Verify,Paid
+S1519,Term 1,5500,0.0,,5500.0,No payment date,Unpaid
+S1519,Term 2,5500,5500.0,2026-12-18,0.0,Future dated - Verify,Paid
+S1520,Term 1,5000,0.0,,5000.0,No payment date,Unpaid
+S1520,Term 2,5000,2840.0,2027-01-05,2160.0,Future dated - Verify,Partially Paid
+S1521,Term 1,4500,4500.0,2026-09-02,0.0,Valid date,Paid
+S1521,Term 2,4500,1350.0,2027-01-11,3150.0,Future dated - Verify,Partially Paid
+S1522,Term 1,4500,4500.0,2026-09-05,0.0,Valid date,Paid
+S1522,Term 2,4500,4500.0,2026-12-15,0.0,Future dated - Verify,Paid
+S1523,Term 1,6000,6000.0,2026-09-22,0.0,Valid date,Paid
+S1523,Term 2,6000,6000.0,2026-12-03,0.0,Future dated - Verify,Paid
+S1524,Term 1,5000,5000.0,2026-09-03,0.0,Valid date,Paid
+S1524,Term 2,5000,5000.0,2026-12-23,0.0,Future dated - Verify,Paid
+S1525,Term 1,5000,5000.0,2026-09-17,0.0,Valid date,Paid
+S1525,Term 2,5000,5000.0,2026-12-16,0.0,Future dated - Verify,Paid
+S1526,Term 1,6000,6000.0,2026-09-13,0.0,Valid date,Paid
+S1526,Term 2,6000,0.0,,6000.0,No payment date,Unpaid
+S1527,Term 1,4500,0.0,,4500.0,No payment date,Unpaid
+S1527,Term 2,4500,4500.0,2026-12-20,0.0,Future dated - Verify,Paid
+S1528,Term 1,6000,6000.0,2026-09-08,0.0,Valid date,Paid
+S1528,Term 2,6000,6000.0,2026-12-11,0.0,Future dated - Verify,Paid
+S1529,Term 1,6000,6000.0,2026-09-15,0.0,Valid date,Paid
+S1529,Term 2,6000,3490.0,2027-01-23,2510.0,Future dated - Verify,Partially Paid
+S1530,Term 1,5500,5500.0,2026-09-26,0.0,Valid date,Paid
+S1530,Term 2,5500,5500.0,2026-12-22,0.0,Future dated - Verify,Paid
+S1531,Term 1,4500,4500.0,2026-09-24,0.0,Valid date,Paid
+S1531,Term 2,4500,4500.0,2026-12-10,0.0,Future dated - Verify,Paid
+S1532,Term 1,4500,4500.0,2026-09-26,0.0,Valid date,Paid
+S1532,Term 2,4500,4500.0,2026-12-14,0.0,Future dated - Verify,Paid
+S1533,Term 1,4500,4500.0,2026-09-20,0.0,Valid date,Paid
+S1533,Term 2,4500,4500.0,2026-12-17,0.0,Future dated - Verify,Paid
+S1534,Term 1,5500,5500.0,2026-09-23,0.0,Valid date,Paid
+S1534,Term 2,5500,5500.0,2026-12-26,0.0,Future dated - Verify,Paid
+S1535,Term 1,4500,4500.0,2026-09-07,0.0,Valid date,Paid
+S1535,Term 2,4500,1590.0,2027-01-22,2910.0,Future dated - Verify,Partially Paid
+S1536,Term 1,5000,5000.0,2026-09-17,0.0,Valid date,Paid
+S1536,Term 2,5000,5000.0,2026-12-24,0.0,Future dated - Verify,Paid
+S1537,Term 1,4500,4500.0,2026-09-03,0.0,Valid date,Paid
+S1537,Term 2,4500,3340.0,2026-12-31,1160.0,Future dated - Verify,Partially Paid
+S1538,Term 1,5000,5000.0,2026-09-03,0.0,Valid date,Paid
+S1538,Term 2,5000,5000.0,2026-12-05,0.0,Future dated - Verify,Paid
+S1539,Term 1,4500,4500.0,2026-09-29,0.0,Valid date,Paid
+S1539,Term 2,4500,2850.0,2027-01-10,1650.0,Future dated - Verify,Partially Paid
+S1540,Term 1,5500,5500.0,2026-09-25,0.0,Valid date,Paid
+S1540,Term 2,5500,3740.0,2026-12-23,1760.0,Future dated - Verify,Partially Paid
+S1541,Term 1,4500,4500.0,2026-09-21,0.0,Valid date,Paid
+S1541,Term 2,4500,4500.0,2026-12-05,0.0,Future dated - Verify,Paid
+S1542,Term 1,4500,4500.0,2026-09-29,0.0,Valid date,Paid
+S1542,Term 2,4500,1400.0,2027-01-07,3100.0,Future dated - Verify,Partially Paid
+S1543,Term 1,4500,4500.0,2026-09-10,0.0,Valid date,Paid
+S1543,Term 2,4500,4500.0,2026-12-02,0.0,Future dated - Verify,Paid
+S1544,Term 1,6000,6000.0,2026-09-08,0.0,Valid date,Paid
+S1544,Term 2,6000,0.0,,6000.0,No payment date,Unpaid
+S1545,Term 1,4500,4500.0,2026-09-07,0.0,Valid date,Paid
+S1545,Term 2,4500,3390.0,2027-01-17,1110.0,Future dated - Verify,Partially Paid
+S1546,Term 1,5000,5000.0,2026-09-21,0.0,Valid date,Paid
+S1546,Term 2,5000,5000.0,2026-12-01,0.0,Future dated - Verify,Paid
+S1547,Term 1,5500,5500.0,2026-09-24,0.0,Valid date,Paid
+S1547,Term 2,5500,5500.0,2026-12-19,0.0,Future dated - Verify,Paid
+S1548,Term 1,5000,5000.0,2026-09-02,0.0,Valid date,Paid
+S1548,Term 2,5000,5000.0,2026-12-26,0.0,Future dated - Verify,Paid
+S1549,Term 1,5500,5500.0,2026-09-12,0.0,Valid date,Paid
+S1549,Term 2,5500,5500.0,2026-12-14,0.0,Future dated - Verify,Paid
+S1550,Term 1,6000,6000.0,2026-09-17,0.0,Valid date,Paid
+S1550,Term 2,6000,6000.0,2026-12-22,0.0,Future dated - Verify,Paid
+S1551,Term 1,5000,5000.0,2026-09-19,0.0,Valid date,Paid
+S1551,Term 2,5000,5000.0,2026-12-20,0.0,Future dated - Verify,Paid
+S1552,Term 1,6000,6000.0,2026-09-26,0.0,Valid date,Paid
+S1552,Term 2,6000,6000.0,2026-12-29,0.0,Future dated - Verify,Paid
+S1553,Term 1,5000,5000.0,2026-09-19,0.0,Valid date,Paid
+S1553,Term 2,5000,5000.0,2026-12-19,0.0,Future dated - Verify,Paid
+S1554,Term 1,6000,6000.0,2026-09-13,0.0,Valid date,Paid
+S1554,Term 2,6000,6000.0,2026-12-14,0.0,Future dated - Verify,Paid
+S1555,Term 1,5000,5000.0,2026-09-21,0.0,Valid date,Paid
+S1555,Term 2,5000,0.0,,5000.0,No payment date,Unpaid
+S1556,Term 1,6000,6000.0,2026-09-29,0.0,Valid date,Paid
+S1556,Term 2,6000,6000.0,2026-12-09,0.0,Future dated - Verify,Paid
+S1557,Term 1,6000,6000.0,2026-09-14,0.0,Valid date,Paid
+S1557,Term 2,6000,6000.0,2026-12-19,0.0,Future dated - Verify,Paid
+S1558,Term 1,6000,6000.0,2026-09-09,0.0,Valid date,Paid
+S1558,Term 2,6000,1950.0,2027-01-12,4050.0,Future dated - Verify,Partially Paid
+S1559,Term 1,6000,0.0,,6000.0,No payment date,Unpaid
+S1559,Term 2,6000,0.0,,6000.0,No payment date,Unpaid
+S1560,Term 1,5000,3950.0,2026-10-16,1050.0,Valid date,Partially Paid
+S1560,Term 2,5000,5000.0,2026-12-09,0.0,Future dated - Verify,Paid
+S1561,Term 1,4500,4500.0,2026-09-18,0.0,Valid date,Paid
+S1561,Term 2,4500,4500.0,2026-12-03,0.0,Future dated - Verify,Paid
+S1562,Term 1,5000,5000.0,2026-09-12,0.0,Valid date,Paid
+S1562,Term 2,5000,3630.0,2026-12-26,1370.0,Future dated - Verify,Partially Paid
+S1563,Term 1,4500,4500.0,2026-09-09,0.0,Valid date,Paid
+S1563,Term 2,4500,4500.0,2026-12-14,0.0,Future dated - Verify,Paid
+S1564,Term 1,6000,6000.0,2026-09-22,0.0,Valid date,Paid
+S1564,Term 2,6000,6000.0,2026-12-17,0.0,Future dated - Verify,Paid
+S1565,Term 1,4500,4500.0,2026-09-07,0.0,Valid date,Paid
+S1565,Term 2,4500,3490.0,2027-01-22,1010.0,Future dated - Verify,Partially Paid
+S1566,Term 1,4500,0.0,,4500.0,No payment date,Unpaid
+S1566,Term 2,4500,2740.0,2026-12-26,1760.0,Future dated - Verify,Partially Paid
+S1567,Term 1,4500,4500.0,2026-09-26,0.0,Valid date,Paid
+S1567,Term 2,4500,4500.0,2026-12-29,0.0,Future dated - Verify,Paid
+S1568,Term 1,5500,4210.0,2026-09-29,1290.0,Valid date,Partially Paid
+S1568,Term 2,5500,5500.0,2026-12-19,0.0,Future dated - Verify,Paid
+S1569,Term 1,5000,5000.0,2026-09-24,0.0,Valid date,Paid
+S1569,Term 2,5000,0.0,,5000.0,No payment date,Unpaid
+S1570,Term 1,6000,6000.0,2026-09-14,0.0,Valid date,Paid
+S1570,Term 2,6000,6000.0,2026-12-12,0.0,Future dated - Verify,Paid
+S1571,Term 1,5000,5000.0,2026-09-22,0.0,Valid date,Paid
+S1571,Term 2,5000,5000.0,2026-12-12,0.0,Future dated - Verify,Paid
+S1572,Term 1,4500,4500.0,2026-09-20,0.0,Valid date,Paid
+S1572,Term 2,4500,2960.0,2027-01-22,1540.0,Future dated - Verify,Partially Paid
+S1573,Term 1,4500,4500.0,2026-09-26,0.0,Valid date,Paid
+S1573,Term 2,4500,4500.0,2026-12-26,0.0,Future dated - Verify,Paid
+S1574,Term 1,4500,4500.0,2026-09-27,0.0,Valid date,Paid
+S1574,Term 2,4500,0.0,,4500.0,No payment date,Unpaid
+S1575,Term 1,5000,5000.0,2026-09-08,0.0,Valid date,Paid
+S1575,Term 2,5000,5000.0,2026-12-11,0.0,Future dated - Verify,Paid
+S1576,Term 1,6000,6000.0,2026-09-25,0.0,Valid date,Paid
+S1576,Term 2,6000,2570.0,2027-01-08,3430.0,Future dated - Verify,Partially Paid
+S1577,Term 1,5000,5000.0,2026-09-18,0.0,Valid date,Paid
+S1577,Term 2,5000,5000.0,2026-12-06,0.0,Future dated - Verify,Paid
+S1578,Term 1,6000,6000.0,2026-09-25,0.0,Valid date,Paid
+S1578,Term 2,6000,6000.0,2026-12-03,0.0,Future dated - Verify,Paid
+S1579,Term 1,4500,4500.0,2026-09-28,0.0,Valid date,Paid
+S1579,Term 2,4500,4500.0,2026-12-13,0.0,Future dated - Verify,Paid
+S1580,Term 1,4500,4500.0,2026-09-26,0.0,Valid date,Paid
+S1580,Term 2,4500,4500.0,2026-12-02,0.0,Future dated - Verify,Paid
+S1581,Term 1,6000,2470.0,2026-10-06,3530.0,Valid date,Partially Paid
+S1581,Term 2,6000,6000.0,2026-12-07,0.0,Future dated - Verify,Paid
+S1582,Term 1,4500,4500.0,2026-09-22,0.0,Valid date,Paid
+S1582,Term 2,4500,4500.0,2026-12-11,0.0,Future dated - Verify,Paid
+S1583,Term 1,4500,4500.0,2026-09-01,0.0,Valid date,Paid
+S1583,Term 2,4500,4500.0,2026-12-30,0.0,Future dated - Verify,Paid
+S1584,Term 1,5000,5000.0,2026-09-27,0.0,Valid date,Paid
+S1584,Term 2,5000,5000.0,2026-12-01,0.0,Future dated - Verify,Paid
+S1585,Term 1,6000,6000.0,2026-09-11,0.0,Valid date,Paid
+S1585,Term 2,6000,0.0,,6000.0,No payment date,Unpaid
+S1586,Term 1,5500,5500.0,2026-09-22,0.0,Valid date,Paid
+S1586,Term 2,5500,3460.0,2026-12-20,2040.0,Future dated - Verify,Partially Paid
+S1587,Term 1,4500,2270.0,2026-09-24,2230.0,Valid date,Partially Paid
+S1587,Term 2,4500,4500.0,2026-12-22,0.0,Future dated - Verify,Paid
+S1588,Term 1,6000,4760.0,2026-10-07,1240.0,Valid date,Partially Paid
+S1588,Term 2,6000,6000.0,2026-12-05,0.0,Future dated - Verify,Paid
+S1589,Term 1,6000,0.0,,6000.0,No payment date,Unpaid
+S1589,Term 2,6000,6000.0,2026-12-16,0.0,Future dated - Verify,Paid
+S1590,Term 1,6000,6000.0,2026-09-28,0.0,Valid date,Paid
+S1590,Term 2,6000,6000.0,2026-12-21,0.0,Future dated - Verify,Paid
+S1591,Term 1,6000,4360.0,2026-10-21,1640.0,Valid date,Partially Paid
+S1591,Term 2,6000,6000.0,2026-12-17,0.0,Future dated - Verify,Paid
+S1592,Term 1,4500,4500.0,2026-09-14,0.0,Valid date,Paid
+S1592,Term 2,4500,4500.0,2026-12-01,0.0,Future dated - Verify,Paid
+S1593,Term 1,6000,0.0,,6000.0,No payment date,Unpaid
+S1593,Term 2,6000,2070.0,2027-01-20,3930.0,Future dated - Verify,Partially Paid
+S1594,Term 1,5000,1590.0,2026-10-04,3410.0,Valid date,Partially Paid
+S1594,Term 2,5000,3380.0,2027-01-10,1620.0,Future dated - Verify,Partially Paid
+S1595,Term 1,6000,6000.0,2026-09-14,0.0,Valid date,Paid
+S1595,Term 2,6000,6000.0,2026-12-22,0.0,Future dated - Verify,Paid
+S1596,Term 1,5500,5500.0,2026-09-20,0.0,Valid date,Paid
+S1596,Term 2,5500,5500.0,2026-12-28,0.0,Future dated - Verify,Paid
+S1597,Term 1,6000,6000.0,2026-09-03,0.0,Valid date,Paid
+S1597,Term 2,6000,6000.0,2026-12-11,0.0,Future dated - Verify,Paid
+S1598,Term 1,5500,5500.0,2026-09-11,0.0,Valid date,Paid
+S1598,Term 2,5500,5500.0,2026-12-03,0.0,Future dated - Verify,Paid
+S1599,Term 1,5500,5500.0,2026-09-25,0.0,Valid date,Paid
+S1599,Term 2,5500,5500.0,2026-12-08,0.0,Future dated - Verify,Paid
