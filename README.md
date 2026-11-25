@@ -9,7 +9,7 @@ It provides insights into student performance, identifies students who may requi
 ## Dashboard preview
 
 **Overview(principal)**
-![overview](screenshots/01_overview.png)
+s
 
 **At-risk studants(early warning list)**
 ![At-risk students](screenshots/02_At-risk_students.png)
